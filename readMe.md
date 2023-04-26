@@ -5,7 +5,7 @@ Hai This is Sahad. In this Lecture Iam gonna solve Leetcode Qustions as Much as 
 Let me know what you think and how you can help
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Qustion Name  | Qustion No            |
+| ------------- | -------------         |
+| 258           | Add Digits            |
+| 2619          | Array.Prototype.Last  |
