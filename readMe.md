@@ -7,5 +7,5 @@ Let me know what you think and how you can help
 
 # Index
 
-2619 Array Prototype Last.
-258  Add Digits.
+258  Add Digits
+2619 Array Prototype Last
