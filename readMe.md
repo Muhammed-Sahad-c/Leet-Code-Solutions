@@ -10,6 +10,7 @@ Let me know what you think and how you can help
 | 258           | Add Digits                                  |
 | 2619          | Array.Prototype.Last                        |
 | 2620          | Counter                                     |
-| 2621          | Sleep                          |
+| 2621          | Sleep                                       |
 | 2626          | Array Reduce Tranformation                  |
-| 2635          | Filter Elements from Array                  |
+| 2634          | Filter Elements from Array                  |
+| 2635          | Apply Transform Over Each Element in Array  |
