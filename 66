@@ -1,0 +1,9 @@
+/**
+ * @param {number[]} digits
+ * @return {number[]}
+ */
+ var plusOne = function (digits) {
+    digits = BigInt(digits.join('')) + 1n
+    digits = digits.toString().split('');
+    return digits
+};

@@ -8,6 +8,7 @@ Let me know what you think and how you can help
 | No            | Problem                                     |
 | ------------- | -------------                               |
 | 1             | Two Sum                                     |
+| 27            | Remove Element                              |
 | 136           | Single Number II                            |
 | 258           | Add Digits                                  |
 | 2619          | Array.Prototype.Last                        |
