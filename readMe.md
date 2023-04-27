@@ -9,6 +9,7 @@ Let me know what you think and how you can help
 | ------------- | -------------                               |
 | 1             | Two Sum                                     |
 | 27            | Remove Element                              |
+| 66            | Plus One                                    |
 | 136           | Single Number II                            |
 | 258           | Add Digits                                  |
 | 2619          | Array.Prototype.Last                        |
