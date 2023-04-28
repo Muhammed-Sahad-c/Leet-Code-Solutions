@@ -9,7 +9,7 @@ Let me know what you think and how you can help
 | ------------- | -------------                               |-----------
 | 1             | Two Sum                                     |Array      |
 | 27            | Remove Element                              |Array      |
-| 58            | Length of the last word                     |String     |
+| 58            | Length Of The Last Word                     |String     |
 | 66            | Plus One                                    |Array      |
 | 136           | Single Number II                            |Array      |
 | 258           | Add Digits                                  |Array      |
