@@ -5,16 +5,17 @@ Hai This is Sahad. In this Lecture Iam gonna solve Leetcode Qustions as Much as 
 Let me know what you think and how you can help
 
 
-| No            | Problem                                     |
-| ------------- | -------------                               |
-| 1             | Two Sum                                     |
-| 27            | Remove Element                              |
-| 66            | Plus One                                    |
-| 136           | Single Number II                            |
-| 258           | Add Digits                                  |
-| 2619          | Array.Prototype.Last                        |
-| 2620          | Counter                                     |
-| 2621          | Sleep                                       |
-| 2626          | Array Reduce Tranformation                  |
-| 2634          | Filter Elements from Array                  |
-| 2635          | Apply Transform Over Each Element in Array  |
+| No            | Problem                                     |Category   |
+| ------------- | -------------                               |-----------
+| 1             | Two Sum                                     |Array      |
+| 27            | Remove Element                              |Array      |
+| 58            | Length of the last word                     |String     |
+| 66            | Plus One                                    |Array      |
+| 136           | Single Number II                            |Array      |
+| 258           | Add Digits                                  |Array      |
+| 2619          | Array.Prototype.Last                        |Array      |
+| 2620          | Counter                                     |Array      |
+| 2621          | Sleep                                       |Array      |
+| 2626          | Array Reduce Tranformation                  |Array      |
+| 2634          | Filter Elements from Array                  |Array      |
+| 2635          | Apply Transform Over Each Element in Array  |Array      |

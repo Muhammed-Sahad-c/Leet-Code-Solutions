@@ -1,0 +1,8 @@
+/**
+ * @param {string} s
+ * @return {number}
+ */
+ var lengthOfLastWord = function (s) {
+    str = s.trim().split(' ');
+    return str = str[str.length - 1].length
+};
