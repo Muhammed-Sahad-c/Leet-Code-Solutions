@@ -11,9 +11,10 @@ Let me know what you think and how you can help
 | 27            | Remove Element                              |Array      |
 | 58            | Length Of The Last Word                     |String     |
 | 66            | Plus One                                    |Array      |
-| 125           | Valid Palindrome                             |String     |
+| 125           | Valid Palindrome                            |String     |
 | 136           | Single Number II                            |Array      |
 | 258           | Add Digits                                  |Array      |
+| 485           | Max Consecutive Ones                        |Array      |
 | 2619          | Array.Prototype.Last                        |Array      |
 | 2620          | Counter                                     |Array      |
 | 2621          | Sleep                                       |Array      |
