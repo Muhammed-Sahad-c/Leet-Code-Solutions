@@ -1,0 +1,20 @@
+//Find Lucky Integer in an Array
+
+/**
+ * @param {number[]} arr
+ * @return {number}
+ */
+var findLucky = function (arr) {
+    var lln = -1, count;
+    for (i = 0; i < arr.length; i++) {
+        count = 0;
+        if (arr[i] > lln) {
+            for (j = 0; j < arr.length; j++) {
+                if (arr[i] === arr[j]) count++;
+            }
+            if (count === arr[i]) lln = arr[i];
+        }
+    }
+
+    return lln
+};
