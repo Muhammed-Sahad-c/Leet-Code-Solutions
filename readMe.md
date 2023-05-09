@@ -1,8 +1,7 @@
-
-
-Hai This is Sahad. In this Lecture Iam gonna solve Leetcode Qustions as Much as i can.
+ Greetings!
  
-Let me know what you think and how you can help
+ I'am Started to solving Leet code solutions in JavaScript. I don't know how much i can cover eventhough i'll try for my best 
+ My target is 100 . so , Let me know your opinions . so thats all thanks.
 
 
 | No            | Problem                                     |Category   |
