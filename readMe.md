@@ -18,8 +18,7 @@ Let me know what you think and how you can help
 | 258           | Add Digits                                  |Array      |
 | 485           | Max Consecutive Ones                        |Array      |
 | 1394          | Find Lucky Integer in an Array              |Array      |
-| 1450          | Number of Students Doing 
-|                 Homework at a Given Time                    |Array      |
+| 1450          | Number of Students Doing Homework at a Given Time |Array      |
 | 2619          | Array.Prototype.Last                        |Array      |
 | 2620          | Counter                                     |Array      |
 | 2621          | Sleep                                       |Array      |
