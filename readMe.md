@@ -7,7 +7,7 @@
 Let me know what you think and how you can help
 
 
-| QN            | Problem                                     |Category   |
+| Problem no:   | Problem                                     |Category   |
 | ------------- | -------------                               |-----------
 | 1             | Two Sum                                     |Array      |
 | 27            | Remove Element                              |Array      |
@@ -16,6 +16,7 @@ Let me know what you think and how you can help
 | 125           | Valid Palindrome                            |String     |
 | 136           | Single Number II                            |Array      |
 | 258           | Add Digits                                  |Array      |
+| 349           | Intersection of Two Arrays                  |Array      |
 | 485           | Max Consecutive Ones                        |Array      |
 | 906           | Sort Array By Parity                        |Array      |
 | 1394          | Find Lucky Integer in an Array              |Array      |
@@ -28,4 +29,4 @@ Let me know what you think and how you can help
 | 2635          | Apply Transform Over Each Element in Array  |Array      |
 
 
-Solved 17 Problems.
+Solved 18 Problems.

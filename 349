@@ -1,0 +1,15 @@
+//Intersection of Two Arrays
+
+/** 
+ * @param {number[]} nums1
+ * @param {number[]} nums2
+ * @return {number[]}
+ */
+var intersection = function (nums1, nums2) {
+    var output = [];
+    for (x of nums1) {
+        if (nums2.includes(x) && output.includes(x) == false) output.push(x)
+    }
+
+    return output
+};
