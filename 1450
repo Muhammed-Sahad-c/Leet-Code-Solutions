@@ -1,3 +1,5 @@
+// Number of Students Doing Homework at a Given Time
+
 /**
  * @param {number[]} startTime
  * @param {number[]} endTime
@@ -13,7 +15,7 @@ var busyStudent = function (startTime, endTime, queryTime) {
 
     return count;
 };
- 
 
- 
+
+
 
