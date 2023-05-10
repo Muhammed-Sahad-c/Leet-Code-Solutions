@@ -1,0 +1,15 @@
+
+//Sort Array By Parity
+
+/**
+ * @param {number[]} nums
+ * @return {number[]}
+ */
+var sortArrayByParity = function (nums) {
+    var output = [];
+    for (i = 0; i < nums.length; i++) {
+        if (nums[i] % 2 == 0) output.unshift(nums[i]);
+        else output.push(nums[i])
+    }
+    return output
+};
