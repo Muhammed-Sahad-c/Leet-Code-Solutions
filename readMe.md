@@ -20,6 +20,7 @@ Let me know what you think and how you can help
 | 344           | Reverse String                              |String     |
 | 349           | Intersection of Two Arrays                  |Array      |
 | 485           | Max Consecutive Ones                        |Array      |
+| 557           | Reverse Words in a String III               |String     |
 | 906           | Sort Array By Parity                        |Array      |
 | 1394          | Find Lucky Integer in an Array              |Array      |
 | 1450          | Number of Students Doing Homework at a Given Time       |Array      |
@@ -31,4 +32,4 @@ Let me know what you think and how you can help
 | 2635          | Apply Transform Over Each Element in Array  |Array      |
 
 
-Solved 20 Problems.
+Solved 21 Problems.
