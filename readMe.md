@@ -7,8 +7,8 @@
 Let me know what you think and how you can help
 
 
-| Problem no:   | Problem                                                 | Category  | Difficulty |
-| ------------- | -------------                                           |------------------------
+| Problem no:   | Problem                                                 | Category  | Difficulty|
+| ------------- | -------------                                           |-----------|-----------
 | 1             | Two Sum                                                 |Array      |  Easy     |
 | 27            | Remove Element                                          |Array      |  Easy     |
 | 28            | Find the Index of the First Occurrence in a String      |String     |  Easy     |
