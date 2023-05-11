@@ -30,6 +30,7 @@ Let me know what you think and how you can help
 | 2626          | Array Reduce Tranformation                  |Array      |
 | 2634          | Filter Elements from Array                  |Array      |
 | 2635          | Apply Transform Over Each Element in Array  |Array      |
+| 2665          | Counter II                                  |Array      |
 
 
-Solved 21 Problems.
+Solved 22 Problems.
