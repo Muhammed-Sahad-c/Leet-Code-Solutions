@@ -11,6 +11,7 @@ Let me know what you think and how you can help
 | ------------- | -------------                               |-----------
 | 1             | Two Sum                                     |Array      |
 | 27            | Remove Element                              |Array      |
+| 28            | Find the Index of the First Occurrence in a String      |String     |
 | 58            | Length Of The Last Word                     |String     |
 | 66            | Plus One                                    |Array      |
 | 125           | Valid Palindrome                            |String     |
@@ -20,7 +21,7 @@ Let me know what you think and how you can help
 | 485           | Max Consecutive Ones                        |Array      |
 | 906           | Sort Array By Parity                        |Array      |
 | 1394          | Find Lucky Integer in an Array              |Array      |
-| 1450          | Number of Students Doing Homework at a Given Time |Array      |
+| 1450          | Number of Students Doing Homework at a Given Time       |Array      |
 | 2619          | Array.Prototype.Last                        |Array      |
 | 2620          | Counter                                     |Array      |
 | 2621          | Sleep                                       |Array      |
