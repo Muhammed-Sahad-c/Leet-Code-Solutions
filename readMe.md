@@ -17,6 +17,7 @@ Let me know what you think and how you can help
 | 125           | Valid Palindrome                            |String     |
 | 136           | Single Number II                            |Array      |
 | 258           | Add Digits                                  |Array      |
+| 344           | Reverse String                              |String     |
 | 349           | Intersection of Two Arrays                  |Array      |
 | 485           | Max Consecutive Ones                        |Array      |
 | 906           | Sort Array By Parity                        |Array      |
@@ -30,4 +31,4 @@ Let me know what you think and how you can help
 | 2635          | Apply Transform Over Each Element in Array  |Array      |
 
 
-Solved 18 Problems.
+Solved 20 Problems.
