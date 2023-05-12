@@ -16,6 +16,7 @@ Let me know what you think and how you can help
 | 66            | Plus One                                                |Array      |  Easy     |
 | 125           | Valid Palindrome                                        |String     |  Easy     |
 | 136           | Single Number II                                        |Array      |  Easy     |
+| 169           | Majority Element                                        |Array      |  Easy     |
 | 258           | Add Digits                                              |Array      |  Easy     |
 | 344           | Reverse String                                          |String     |  Easy     |
 | 349           | Intersection of Two Arrays                              |Array      |  Easy     |
@@ -34,4 +35,4 @@ Let me know what you think and how you can help
 | 2667          | Create Hello World Function                             | ..        |  Easy     |
 
 
-Solved 22 Problems.
+                                                                                Solved 24 Problems.

@@ -1,0 +1,24 @@
+//Majority Element
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+ var majorityElement = function (nums) {
+    var count, output = 0, value = 0;
+    var checkedArr = [];
+    for (let i = 0; i < nums.length; i++) {
+        if (checkedArr.includes(nums[i]) === false) {
+            count = 0;
+            for (let j of nums) {
+                if (nums[i] == j) count++;
+            }
+
+            if (count > value) { value = count; output = nums[i] }
+
+            checkedArr.push(nums[i])
+        }
+
+    }
+    return output
+};
