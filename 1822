@@ -1,0 +1,17 @@
+//Sign of the Product of an Array
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var arraySign = function (nums) {
+    var product = nums[0];
+    for (let i = 1; i < nums.length; i++) {
+        product *= nums[i]
+    }
+
+    if (nums.includes(0)) return 0
+    else if (product > 0) return 1;
+    else return -1;
+
+};
