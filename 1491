@@ -1,0 +1,19 @@
+// Average Salary Excluding the Minimum and Maximum Salary
+
+/**
+ * @param {number[]} salary
+ * @return {number}
+ */
+var average = function (salary) {
+    var len = salary.length;
+    var total = 0;
+    var min = salary[0], max = [0]
+
+    for (i of salary) {
+        total = total + i
+        if (min > i) min = i;
+        else if (max < i) max = i;
+    }
+
+    return (total - (min + max)) / (len - 2)
+};
