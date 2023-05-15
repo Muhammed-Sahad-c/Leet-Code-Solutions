@@ -34,4 +34,4 @@ Let me know what you think and how you can help
 | 2667        | Create Hello World Function                        | ..       | Easy       |
 
                                                                         
-Total                                                                    Solved 25 Problems.
+Total                                                                    Solved 27 Problems.
