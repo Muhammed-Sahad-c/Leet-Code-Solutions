@@ -16,6 +16,7 @@ Let me know what you think and how you can help
 | 169         | Majority Element                                        | Array    | Easy       |
 | 217         | Contains Duplicate                                      | Array    | Easy       |
 | 258         | Add Digits                                              | Array    | Easy       |
+| 288         | Move Zeros                                              | Array    | Easy       |
 | 344         | Reverse String                                          | String   | Easy       |
 | 349         | Intersection of Two Arrays                              | Array    | Easy       |
 | 485         | Max Consecutive Ones                                    | Array    | Easy       |
