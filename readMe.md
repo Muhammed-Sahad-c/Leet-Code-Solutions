@@ -27,6 +27,7 @@ Let me know what you think and how you can help
 | 1491        | Average Salary Excluding the Minimum and Maximum Salary | Array    | Easy       |
 | 1822        | Sign of the Product of an Array                         | Array    | Easy       |
 | 2215        | Find the Difference of Two Arrays                       | Array    | Easy       |
+| 2540        | Minimum Common Value                                    | Array    | Easy       |
 | 2619        | Array.Prototype.Last                                    | Array    | Easy       |
 | 2620        | Counter                                                 | Array    | Easy       |
 | 2621        | Sleep                                                   | Array    | Easy       |
@@ -36,4 +37,4 @@ Let me know what you think and how you can help
 | 2665        | Counter II                                              | Array    | Easy       |
 | 2667        | Create Hello World Function                             | ..       | Easy       |
 
-       Total                                  Solved 29 Problems.
+       Total                                  Solved 30 Problems.
