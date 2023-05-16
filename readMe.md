@@ -22,6 +22,7 @@ Let me know what you think and how you can help
 | 557         | Reverse Words in a String III                           | String   | Easy       |
 | 665         | Non-decreasing Array                                    | Array    | Medium     |
 | 906         | Sort Array By Parity                                    | Array    | Easy       |
+| 1287        | Element Appearing More Than 25% In Sorted Array         | Array    | Easy       |
 | 1394        | Find Lucky Integer in an Array                          | Array    | Easy       |
 | 1450        | Number of Students Doing Homework at a Given Time       | Array    | Easy       |
 | 1491        | Average Salary Excluding the Minimum and Maximum Salary | Array    | Easy       |
