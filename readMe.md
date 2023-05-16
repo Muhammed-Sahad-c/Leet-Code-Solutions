@@ -20,6 +20,7 @@ Let me know what you think and how you can help
 | 349         | Intersection of Two Arrays                              | Array    | Easy       |
 | 485         | Max Consecutive Ones                                    | Array    | Easy       |
 | 557         | Reverse Words in a String III                           | String   | Easy       |
+| 665         | Non-decreasing Array                                    | Array    | Medium     |
 | 906         | Sort Array By Parity                                    | Array    | Easy       |
 | 1394        | Find Lucky Integer in an Array                          | Array    | Easy       |
 | 1450        | Number of Students Doing Homework at a Given Time       | Array    | Easy       |
@@ -34,4 +35,4 @@ Let me know what you think and how you can help
 | 2665        | Counter II                                              | Array    | Easy       |
 | 2667        | Create Hello World Function                             | ..       | Easy       |
 
-       Total                                  Solved 27 Problems.
+       Total                                  Solved 28 Problems.
