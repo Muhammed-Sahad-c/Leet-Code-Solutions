@@ -4,7 +4,7 @@ I'am Started to solving Leet code solutions in JavaScript. I don't know how much
 
 Let me know what you think and how you can help
 
-       Total                                  Solved 36 Problems.
+       Total                                  Solved 38 Problems.
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -33,6 +33,7 @@ Let me know what you think and how you can help
 | 1491        | Average Salary Excluding the Minimum and Maximum Salary  | Array    | Easy       |
 | 1662        | Check If Two String Arrays are Equivalent                | Array    | Easy       |
 | 1773        | Count Items Matching a Rule                              | Array    | Easy       |
+| 1816        | Truncate Sentence                                        | Array    | Easy       |
 | 1822        | Sign of the Product of an Array                          | Array    | Easy       |
 | 1929        | Concatenation of Array                                   | Array    | Easy       |
 | 2215        | Find the Difference of Two Arrays                        | Array    | Easy       |
