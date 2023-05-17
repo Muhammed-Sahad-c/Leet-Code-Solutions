@@ -1,0 +1,26 @@
+ 
+// Sort The People
+
+
+/**
+ * @param {string[]} names
+ * @param {number[]} heights
+ * @return {string[]}
+ */
+var sortPeople = function (names, heights) {
+    for (i = 0; i < heights.length; i++) {
+        for (j = i + 1; j < heights.length; j++) {
+            if (heights[i] < heights[j]) {
+                var temp = heights[j];
+                heights[j] = heights[i];
+                heights[i] = temp;
+
+                var nameTemp = names[i];
+                names[i] = names[j];
+                names[j] = nameTemp
+            }
+        }
+    }
+
+    return names
+};
