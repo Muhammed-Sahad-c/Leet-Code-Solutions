@@ -1,0 +1,21 @@
+//Count Items Matching a Rule
+
+/**
+ * @param {string[][]} items
+ * @param {string} ruleKey
+ * @param {string} ruleValue
+ * @return {number}
+ */
+ var countMatches = function (items, ruleKey, ruleValue) {
+    index = 2
+    var count = 0;
+
+    if (ruleKey === 'type') index = 0
+    else if (ruleKey === 'color') index = 1;
+    
+    for (x of items){
+        if(x[index] === ruleValue) count++;
+    }
+
+    return count
+};
