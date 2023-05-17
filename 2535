@@ -1,0 +1,25 @@
+// Difference Between Element Sum and Digit Sum of an Array
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+ var differenceOfSum = function (nums) {
+    var digitSum = 0, elementSum = 0
+
+
+    for (i = 0; i < nums.length; i++) {
+        elementSum += nums[i];
+    }
+
+    nums = nums.join('').split('');
+
+    for (x of nums) {
+        digitSum += Number(x)
+    }
+
+
+
+    return elementSum - digitSum
+
+};
