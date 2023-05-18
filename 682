@@ -1,0 +1,30 @@
+
+
+//Base Ball Game
+
+/**
+ * @param {string[]} operations
+ * @return {number}
+ */
+var calPoints = function (ops) {
+    var record = [];
+
+    var output = 0
+
+    for (x of ops) {
+        var num = +x;
+        if (num) record.push(+x);
+        else {
+            if (x === 'C') record.pop();
+            else if (x === 'D') record.push(record[record.length - 1] * 2)
+            else record.push(record[record.length - 1] + record[record.length - 2]);
+        }
+    }
+
+
+    for (x of record) {
+        output += x
+    }
+
+    return output
+};

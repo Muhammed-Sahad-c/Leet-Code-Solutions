@@ -25,6 +25,7 @@ Let me know what you think and how you can help
 | 485         | Max Consecutive Ones                                     | Array    | Easy       |
 | 557         | Reverse Words in a String III                            | String   | Easy       |
 | 665         | Non-decreasing Array                                     | Array    | Medium     |
+| 682         | Baseball Game                                            | Array    | easy       |
 | 906         | Sort Array By Parity                                     | Array    | Easy       |
 | 1089        | Duplicate Zeros                                          | Array    | Easy       |
 | 1287        | Element Appearing More Than 25% In Sorted Array          | Array    | Easy       |
