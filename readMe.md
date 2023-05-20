@@ -7,7 +7,7 @@ Let me know what you think and how you can help
 <<<<<<< HEAD
        Total                                  Solved 42 Problems.
 =======
-       Total                                  Solved 41 Problems.
+       Total                                  Solved 42 Problems.
 >>>>>>> f5f06921ffa4587c57642952e16c7fe38761f7de
 
 | Problem no: | Problem                                                  | Category | Difficulty |
@@ -58,5 +58,5 @@ Let me know what you think and how you can help
 <<<<<<< HEAD
        Total                                  Solved 42 Problems.
 =======
-       Total                                  Solved 41 Problems.
+       Total                                  Solved 42 Problems.
 >>>>>>> f5f06921ffa4587c57642952e16c7fe38761f7de
