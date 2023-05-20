@@ -4,11 +4,8 @@ I'am Started to solving Leet code solutions in JavaScript. I don't know how much
 
 Let me know what you think and how you can help
 
-<<<<<<< HEAD
-       Total                                  Solved 42 Problems.
-=======
-       Total                                  Solved 42 Problems.
->>>>>>> f5f06921ffa4587c57642952e16c7fe38761f7de
+
+                                                          Total                 Solved 42 Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -55,8 +52,5 @@ Let me know what you think and how you can help
 | 2665        | Counter II                                               | Array    | Easy       |
 | 2667        | Create Hello World Function                              | ..       | Easy       |
 
-<<<<<<< HEAD
-       Total                                  Solved 42 Problems.
-=======
-       Total                                  Solved 42 Problems.
->>>>>>> f5f06921ffa4587c57642952e16c7fe38761f7de
+
+                                                          Total                 Solved 42 Problems
