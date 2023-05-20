@@ -1,0 +1,16 @@
+// Running Sum of 1d Array
+
+/**
+ * @param {number[]} nums
+ * @return {number[]}
+ */
+var runningSum = function (nums) {
+    sum = 0;
+    output = [];
+    for (i = 0; i < nums.length; i++) {
+        sum += nums[i]
+        output.push(sum);
+    }
+
+    return output
+};

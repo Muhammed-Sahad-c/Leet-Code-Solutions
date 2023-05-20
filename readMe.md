@@ -4,7 +4,7 @@ I'am Started to solving Leet code solutions in JavaScript. I don't know how much
 
 Let me know what you think and how you can help
 
-                                                          Total                 Solved 44 Problems
+                                                          Total                 Solved 45 Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -34,6 +34,7 @@ Let me know what you think and how you can help
 | 1431        | Kids With the Greatest Number of Candies                 | Array    | Easy       |
 | 1450        | Number of Students Doing Homework at a Given Time        | Array    | Easy       |
 | 1464        | Maximum Product of Two Elements in an Array.             | Array    | Easy       |
+| 1480        | Running Sum of 1d Array.                                 | Array    | Easy       |
 | 1491        | Average Salary Excluding the Minimum and Maximum Salary  | Array    | Easy       |
 | 1662        | Check If Two String Arrays are Equivalent                | Array    | Easy       |
 | 1773        | Count Items Matching a Rule                              | Array    | Easy       |
@@ -53,4 +54,4 @@ Let me know what you think and how you can help
 | 2665        | Counter II                                               | Array    | Easy       |
 | 2667        | Create Hello World Function                              | ..       | Easy       |
 
-                                                          Total                 Solved 44 Problems
+                                                          Total                 Solved 45 Problems
