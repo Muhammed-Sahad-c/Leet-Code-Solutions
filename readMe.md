@@ -4,13 +4,14 @@ I'am Started to solving Leet code solutions in JavaScript. I don't know how much
 
 Let me know what you think and how you can help
 
-       Total                                  Solved 40 Problems.
+       Total                                  Solved 42 Problems.
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
 | 1           | Two Sum                                                  | Array    | Easy       |
 | 27          | Remove Element                                           | Array    | Easy       |
 | 28          | Find the Index of the First Occurrence in a String       | String   | Easy       |
+| 53          | Maximum Sub Array                                        | Array    | Medium     |
 | 58          | Length Of The Last Word                                  | String   | Easy       |
 | 66          | Plus One                                                 | Array    | Easy       |
 | 125         | Valid Palindrome                                         | String   | Easy       |
@@ -50,4 +51,4 @@ Let me know what you think and how you can help
 | 2665        | Counter II                                               | Array    | Easy       |
 | 2667        | Create Hello World Function                              | ..       | Easy       |
 
-       Total                                  Solved 40 Problems.
+       Total                                  Solved 42 Problems.
