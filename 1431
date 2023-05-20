@@ -1,0 +1,16 @@
+//Kids With the Greatest Number of Candies
+
+/**
+ * @param {number[]} candies
+ * @param {number} extraCandies
+ * @return {boolean[]}
+ */
+ 
+ var kidsWithCandies = function (candies, extraCandies) {
+    var output = []
+    const max = Math.max(...candies);
+    for (x of candies) {
+        output.push(x + extraCandies >= max);
+    }
+    return output
+};
