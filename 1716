@@ -1,0 +1,40 @@
+// Calculate Money in Leetcode Bank
+
+/**
+ * @param {number} n
+ * @return {number}
+ */
+var totalMoney = function (n) {
+  var totalSalary = 0;
+
+  var totalWeeks = Math.floor(n / 7);
+  var remindingDays = n % 7;
+
+  var weeklySalary = 0;
+
+  var count = 1;
+
+  for (i = 1; i <= totalWeeks; i++) {
+    weeklySalary = count;
+
+    for (j = 1; j < 7; j++) {
+      weeklySalary += count + j;
+    }
+
+    totalSalary += weeklySalary;
+    count++;
+  }
+
+  if (remindingDays != 0) {
+    weeklySalary = count;
+
+    for (i = 1; i < remindingDays; i++) {
+      weeklySalary += count + i;
+    }
+
+    console.log(weeklySalary);
+    totalSalary += weeklySalary;
+  }
+
+  return totalSalary;
+};
