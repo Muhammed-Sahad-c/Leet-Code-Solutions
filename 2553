@@ -1,0 +1,18 @@
+
+// Separate the Digits in an Array
+
+/**
+ * @param {number[]} nums
+ * @return {number[]}
+ */
+ var separateDigits = function (nums) {
+    var output = [];
+
+    nums = nums.join('').split('')
+
+    for (x of nums) {
+        output.push(+x)
+    }
+
+    return output
+};
