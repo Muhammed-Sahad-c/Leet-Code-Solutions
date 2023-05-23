@@ -1,0 +1,18 @@
+
+// Find Target Indices After Sorting Array
+
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+var targetIndices = function(nums, target) {
+    nums = nums.sort((a,b)=>a-b);
+     var output = [];
+
+     for(let i =0 ;i<nums.length;i++){
+         if(nums[i]=== target) output.push(i);
+     }
+
+     return output
+};

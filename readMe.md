@@ -4,7 +4,7 @@ I'am Started to solving Leet code solutions in JavaScript. I don't know how much
 
 Let me know what you think and how you can help
 
-                                                          Total                 Solved 52 Problems
+                                                          Total                 Solved 55 Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -44,7 +44,8 @@ Let me know what you think and how you can help
 | 1773        | Count Items Matching a Rule                              | Array    | Easy       |
 | 1816        | Truncate Sentence                                        | Array    | Easy       |
 | 1822        | Sign of the Product of an Array                          | Array    | Easy       |
-| 1929        | Concatenation of Array                                   | Array    | Easy       |
+| 1929        | Find Target Indices After Sorting Array                  | Array    | Easy       |
+| 2089        | Concatenation of Array                                   | Array    | Easy       |
 | 2108        | Find First Palindromic String in the Array               | Array    | Easy       |
 | 2114        | Maximum Number of Words Found in Sentences               | Array    | Easy       |
 | 2185        | Counting Words With a Given Prefix                       | Array    | Easy       |
@@ -62,4 +63,4 @@ Let me know what you think and how you can help
 | 2665        | Counter II                                               | Array    | Easy       |
 | 2667        | Create Hello World Function                              | ..       | Easy       |
 
-                                                          Total                 Solved 52 Problems
+                                                          Total                 Solved 55 Problems
