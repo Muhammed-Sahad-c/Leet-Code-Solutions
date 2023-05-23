@@ -1,0 +1,14 @@
+// Maximum Number of Words Found in Sentences
+
+/**
+ * @param {string[]} sentences
+ * @return {number}
+ */
+var mostWordsFound = function (sentences) {
+  var output = 0;
+  for (sentence of sentences) {
+    var len = sentence.split(" ").length;
+    if (len > output) output = len;
+  }
+  return output;
+};
