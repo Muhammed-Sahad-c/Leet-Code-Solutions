@@ -4,7 +4,7 @@ I'am Started to solving Leet code solutions in JavaScript. I don't know how much
 
 Let me know what you think and how you can help
 
-                                                          Total                 Solved 55 Problems
+                                                          Total                 Solved 56 Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -23,6 +23,7 @@ Let me know what you think and how you can help
 | 288         | Move Zeros                                               | Array    | Easy       |
 | 344         | Reverse String                                           | String   | Easy       |
 | 349         | Intersection of Two Arrays                               | Array    | Easy       |
+| 414         | Third Maximum Number                                     | Array    | Easy       |
 | 485         | Max Consecutive Ones                                     | Array    | Easy       |
 | 557         | Reverse Words in a String III                            | String   | Easy       |
 | 665         | Non-decreasing Array                                     | Array    | Medium     |
@@ -64,4 +65,4 @@ Let me know what you think and how you can help
 | 2665        | Counter II                                               | Array    | Easy       |
 | 2667        | Create Hello World Function                              | ..       | Easy       |
 
-                                                          Total                 Solved 55 Problems
+                                                          Total                 Solved 56 Problems

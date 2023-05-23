@@ -1,0 +1,12 @@
+//Third Maximum Number
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var thirdMax = function (nums) {
+  var uniqueNums = new Set(nums);
+  var array = Array.from(uniqueNums);
+  array = array.sort((a, b) => a - b);
+  return array.length < 3 ? array[array.length - 1] : array[array.length - 3];
+};
