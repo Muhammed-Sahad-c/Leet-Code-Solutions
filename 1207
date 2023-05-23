@@ -1,0 +1,21 @@
+// Unique Number of Occurrences
+
+/**
+ * @param {number[]} arr
+ * @return {boolean}
+ */
+var uniqueOccurrences = function (arr) {
+  var set = new Set(arr);
+  freq = [];
+  for (num of set) {
+    var count = 0;
+    for (j = 0; j < arr.length; j++) {
+      if (num === arr[j]) count++;
+    }
+
+    if (freq.includes(count)) return false;
+    else freq.push(count);
+  }
+
+  return true;
+};
