@@ -28,6 +28,7 @@ Let me know what you think and how you can help
 | 665         | Non-decreasing Array                                     | Array    | Medium     |
 | 682         | Baseball Game                                            | Array    | easy       |
 | 906         | Sort Array By Parity                                     | Array    | Easy       |
+| 1051        | Height Checker                                           | Array    | Easy       |
 | 1089        | Duplicate Zeros                                          | Array    | Easy       |
 | 1207        | Unique Number of Occurrences                             | Array    | Easy       |
 | 1287        | Element Appearing More Than 25% In Sorted Array          | Array    | Easy       |

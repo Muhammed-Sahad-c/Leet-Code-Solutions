@@ -1,0 +1,16 @@
+// Height Checker
+
+
+/**
+ * @param {number[]} heights
+ * @return {number}
+ */
+var heightChecker = function (heights) {
+    var count = 0;
+    var sc = [...heights]
+    var sortedHeights = sc.sort((a, b) => a - b);
+    for (i = 0; i < heights.length; i++) {
+        if (sortedHeights[i] !== heights[i]) count++
+    }
+    return count;
+};
