@@ -31,6 +31,7 @@ Let me know what you think and how you can help
 | 1089        | Duplicate Zeros                                          | Array    | Easy       |
 | 1207        | Unique Number of Occurrences                             | Array    | Easy       |
 | 1287        | Element Appearing More Than 25% In Sorted Array          | Array    | Easy       |
+| 1295        | Find Numbers with Even Number of Digits                  | Array    | Easy       |
 | 1394        | Find Lucky Integer in an Array                           | Array    | Easy       |
 | 1431        | Kids With the Greatest Number of Candies                 | Array    | Easy       |
 | 1450        | Number of Students Doing Homework at a Given Time        | Array    | Easy       |
