@@ -45,6 +45,7 @@ Let me know what you think and how you can help
 | 1929        | Concatenation of Array                                   | Array    | Easy       |
 | 2108        | Find First Palindromic String in the Array               | Array    | Easy       |
 | 2114        | Maximum Number of Words Found in Sentences               | Array    | Easy       |
+| 2185        | Counting Words With a Given Prefix                       | Array    | Easy       |
 | 2215        | Find the Difference of Two Arrays                        | Array    | Easy       |
 | 2418        | Sort the People                                          | Array    | Easy       |
 | 2535        | Difference Between Element Sum and Digit Sum of an Array | Array    | Easy       |
