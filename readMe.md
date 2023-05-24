@@ -4,7 +4,7 @@ I'am Started to solving Leet code solutions in JavaScript. I don't know how much
 
 Let me know what you think and how you can help
 
-                                                          Total                 Solved 56 Problems
+                                                          Total                 Solved 57 Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -34,6 +34,7 @@ Let me know what you think and how you can help
 | 1207        | Unique Number of Occurrences                             | Array    | Easy       |
 | 1287        | Element Appearing More Than 25% In Sorted Array          | Array    | Easy       |
 | 1295        | Find Numbers with Even Number of Digits                  | Array    | Easy       |
+| 1351        | Count Negative Numbers in a Sorted Matrix                | Array    | Easy       |
 | 1394        | Find Lucky Integer in an Array                           | Array    | Easy       |
 | 1431        | Kids With the Greatest Number of Candies                 | Array    | Easy       |
 | 1450        | Number of Students Doing Homework at a Given Time        | Array    | Easy       |
@@ -65,4 +66,4 @@ Let me know what you think and how you can help
 | 2665        | Counter II                                               | Array    | Easy       |
 | 2667        | Create Hello World Function                              | ..       | Easy       |
 
-                                                          Total                 Solved 56 Problems
+                                                          Total                 Solved 57 Problems

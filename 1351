@@ -1,0 +1,14 @@
+// Count Negative Numbers in a Sorted Matrix
+
+/**
+ * @param {number[][]} grid
+ * @return {number}
+ */
+var countNegatives = function (grid) {
+  var count = 0;
+  var arr = grid.flat();
+  for (num of arr) {
+    if (num < 0) count++;
+  }
+  return count;
+};
