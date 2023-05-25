@@ -1,0 +1,14 @@
+// Count the Digits That Divide a Number
+
+/**
+ * @param {number} num
+ * @return {number}
+ */
+var countDigits = function(num) {
+    var count = 0
+    var digits = num.toString().split('');
+     for(x of digits){
+         if(num % +x ===0) count++;
+     }
+     return count;
+};

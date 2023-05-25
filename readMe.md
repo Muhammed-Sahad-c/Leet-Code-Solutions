@@ -4,7 +4,7 @@ I'am Started to solving Leet code solutions in JavaScript. I don't know how much
 
 Let me know what you think and how you can help
 
-                                                          Total                 Solved 57 Problems
+                                                          Total                 Solved 58 Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -54,6 +54,7 @@ Let me know what you think and how you can help
 | 2185        | Counting Words With a Given Prefix                       | Array    | Easy       |
 | 2215        | Find the Difference of Two Arrays                        | Array    | Easy       |
 | 2418        | Sort the People                                          | Array    | Easy       |
+| 2520        | Count the Digits That Divide a Number                    | Array    | Easy       |
 | 2535        | Difference Between Element Sum and Digit Sum of an Array | Array    | Easy       |
 | 2540        | Minimum Common Value                                     | Array    | Easy       |
 | 2553        | Create Hello World Function                              | Array    | Easy       |
@@ -66,4 +67,4 @@ Let me know what you think and how you can help
 | 2665        | Counter II                                               | Array    | Easy       |
 | 2667        | Create Hello World Function                              | ..       | Easy       |
 
-                                                          Total                 Solved 57 Problems
+                                                          Total                 Solved 58 Problems
