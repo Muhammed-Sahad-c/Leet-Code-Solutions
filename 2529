@@ -1,0 +1,17 @@
+// Maximum Count of Positive Integer and Negative Integer
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var maximumCount = function (nums) {
+    pos = 0;
+    neg = 0;
+
+    for (num of nums) {
+        if (num > 0) pos++;
+        else if (num < 0) neg++;
+    }
+
+    return pos > neg ? pos : neg
+};
