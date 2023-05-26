@@ -1,0 +1,14 @@
+//Kth Missing Positive Number
+
+/**
+ * @param {number[]} arr
+ * @param {number} k
+ * @return {number}
+ */
+var findKthPositive = function (arr, k) {
+  var output = [];
+  for (i = 1; i < 100000000; i++) {
+    if (!arr.includes(i)) output.push(i);
+    if (output.length === k) return output[k - 1];
+  }
+};
