@@ -4,7 +4,7 @@ I'am Started to solving Leet code solutions in JavaScript. I don't know how much
 
 Let me know what you think and how you can help
 
-                                                          Total                 Solved 62 Problems
+                                                          Total                 Solved 66 Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -30,6 +30,7 @@ Let me know what you think and how you can help
 | 682         | Baseball Game                                            | Array    | easy       |
 | 747         | Largest Number At Least Twice of Others                  | Array    | easy       |
 | 906         | Sort Array By Parity                                     | Array    | Easy       |
+| 961         | N-Repeated Element in Size 2N Array                      | Array    | Easy       |
 | 1051        | Height Checker                                           | Array    | Easy       |
 | 1089        | Duplicate Zeros                                          | Array    | Easy       |
 | 1207        | Unique Number of Occurrences                             | Array    | Easy       |
@@ -45,12 +46,14 @@ Let me know what you think and how you can help
 | 1491        | Average Salary Excluding the Minimum and Maximum Salary  | Array    | Easy       |
 | 1539        | Kth Missing Positive Number                              | Array    | Easy       |
 | 1662        | Check If Two String Arrays are Equivalent                | Array    | Easy       |
+| 1672        | Richest Customer Wealth                                  | Array    | Easy       |
 | 1716        | Calculate Money in Leetcode Bank                         | Array    | Easy       |
 | 1748        | Sum of Unique Elements                                   | Array    | Easy       |
 | 1773        | Count Items Matching a Rule                              | Array    | Easy       |
 | 1816        | Truncate Sentence                                        | Array    | Easy       |
 | 1822        | Sign of the Product of an Array                          | Array    | Easy       |
 | 1929        | Find Target Indices After Sorting Array                  | Array    | Easy       |
+| 2011        | Final Value of Variable After Performing Operations      | Array    | Easy       |
 | 2089        | Concatenation of Array                                   | Array    | Easy       |
 | 2108        | Find First Palindromic String in the Array               | Array    | Easy       |
 | 2114        | Maximum Number of Words Found in Sentences               | Array    | Easy       |
@@ -68,7 +71,8 @@ Let me know what you think and how you can help
 | 2626        | Array Reduce Tranformation                               | Array    | Easy       |
 | 2634        | Filter Elements from Array                               | Array    | Easy       |
 | 2635        | Apply Transform Over Each Element in Array               | Array    | Easy       |
+| 2643        | Row With Maximum Ones                                    | Array    | Easy       |
 | 2665        | Counter II                                               | Array    | Easy       |
 | 2667        | Create Hello World Function                              | ..       | Easy       |
 
-                                                          Total                 Solved 62 Problems
+                                                          Total                 Solved 66 Problems
