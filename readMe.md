@@ -75,4 +75,7 @@ Let me know what you think and how you can help
 | 2665        | Counter II                                               | Array    | Easy       |
 | 2667        | Create Hello World Function                              | ..       | Easy       |
 
-                                                          Total                 Solved 66 Problems
+                                                          Easy                  Solved 64 Problems
+                                                          Medium                Solved 02  Problems
+                                                          Hard                  Solved 00  Problems
+                                                          TOTAL                 Solved 66  Problems
