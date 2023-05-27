@@ -5,7 +5,7 @@ I'am Started to solving Leet code solutions in JavaScript. I don't know how much
 Let me know what you think and how you can help
 
                                                           Total                 Solved 66 Problems
-
+ 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
 | 1           | Two Sum                                                  | Array    | Easy       |
