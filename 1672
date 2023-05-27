@@ -1,0 +1,17 @@
+// Richest Customer Wealth
+
+/**
+ * @param {number[][]} accounts
+ * @return {number}
+ */
+var maximumWealth = function (accounts) {
+    richest = 0;
+    for (let i of accounts) {
+        var total = 0
+        for(j=0;j<i.length;j++){
+            total += i[j]
+        }
+        if(total > richest)  richest = total
+    }
+    return richest
+};
