@@ -1,0 +1,18 @@
+//  Largest Number At Least Twice of Others
+
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var dominantIndex = function(nums) {
+    var lg = nums[0]
+    for(let num of nums){
+        if(num > lg) lg = num;
+    }
+
+    for(let i of nums){
+        if(i+i > lg && i !== lg) return -1;
+    }
+    return nums.indexOf(lg);
+};

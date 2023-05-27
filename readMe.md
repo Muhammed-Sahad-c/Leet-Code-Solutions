@@ -4,7 +4,7 @@ I'am Started to solving Leet code solutions in JavaScript. I don't know how much
 
 Let me know what you think and how you can help
 
-                                                          Total                 Solved 61 Problems
+                                                          Total                 Solved 62 Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -28,6 +28,7 @@ Let me know what you think and how you can help
 | 557         | Reverse Words in a String III                            | String   | Easy       |
 | 665         | Non-decreasing Array                                     | Array    | Medium     |
 | 682         | Baseball Game                                            | Array    | easy       |
+| 747         | Largest Number At Least Twice of Others                  | Array    | easy       |
 | 906         | Sort Array By Parity                                     | Array    | Easy       |
 | 1051        | Height Checker                                           | Array    | Easy       |
 | 1089        | Duplicate Zeros                                          | Array    | Easy       |
@@ -70,4 +71,4 @@ Let me know what you think and how you can help
 | 2665        | Counter II                                               | Array    | Easy       |
 | 2667        | Create Hello World Function                              | ..       | Easy       |
 
-                                                          Total                 Solved 61 Problems
+                                                          Total                 Solved 62 Problems
