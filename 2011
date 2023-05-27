@@ -1,0 +1,14 @@
+//Final Value of Variable After Performing Operations
+
+/**
+ * @param {string[]} operations
+ * @return {number}
+ */
+var finalValueAfterOperations = function(operations) {
+    var x = 0;
+    for(let oprator of operations){
+        if(oprator.split('').includes('+')) x += 1;
+        else x -=1;
+    }
+    return x
+};
