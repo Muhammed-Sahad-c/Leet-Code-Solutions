@@ -1,0 +1,17 @@
+// Row With Maximum Ones
+
+/**
+ * @param {number[][]} mat
+ * @return {number[]}
+ */
+var rowAndMaximumOnes = function(mat) {
+    var output = [0,0]; //row , count
+   for(let i =0;i<mat.length;i++){
+        var count = 0;
+        for(j=0;j<mat[i].length;j++){
+            if(mat[i][j]===1) count++;
+        }
+        if(count > output[1]) output = [i,count];
+   }
+   return output
+};

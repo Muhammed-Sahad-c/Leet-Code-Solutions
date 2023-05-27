@@ -15,4 +15,4 @@ var dominantIndex = function(nums) {
         if(i+i > lg && i !== lg) return -1;
     }
     return nums.indexOf(lg);
-};
+}
