@@ -1,0 +1,36 @@
+//Left and Right Sum Differences
+
+/**
+ * @param {number[]} nums
+ * @return {number[]}
+ */
+var leftRightDifference = function (nums) {
+  var leftSum = [];
+  var rightSum = [];
+  for (let i = 0; i < nums.length - 1; i++) {
+    var sum = 0;
+    for (j = i + 1; j < nums.length; j++) {
+      sum += nums[j];
+    }
+    rightSum.push(sum);
+  }
+  rightSum.push(0);
+
+  for (i = 1; i < nums.length; i++) {
+    var sum = 0;
+    for (j = 0; j < i; j++) {
+      sum += nums[j];
+    }
+    leftSum.push(sum);
+  }
+
+  leftSum.unshift(0);
+
+  var output = [];
+
+  for (let i = 0; i < leftSum.length; i++) {
+    if (leftSum[i] < rightSum[i]) output.push(rightSum[i] - leftSum[i]);
+    else output.push(leftSum[i] - rightSum[i]);
+  }
+  return output;
+};
