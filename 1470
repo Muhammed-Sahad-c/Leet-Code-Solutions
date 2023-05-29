@@ -1,0 +1,17 @@
+// Shuffle the Array
+
+/**
+ * @param {number[]} nums
+ * @param {number} n
+ * @return {number[]}
+ */
+var shuffle = function (nums, n) {
+     numX = nums.slice(0,n)
+     numY = nums.slice(n);
+    var output = []
+    for(let i =0;i<numX.length;i++){
+        output.push(numX[i])
+        output.push(numY[i])
+    }
+    return output
+};
