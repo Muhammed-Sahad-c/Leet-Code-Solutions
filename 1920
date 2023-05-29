@@ -1,0 +1,13 @@
+//Build Array from Permutation
+
+/**
+ * @param {number[]} nums
+ * @return {number[]}
+ */
+var buildArray = function (nums) {
+  var output = [];
+  for (let num of nums) {
+    output.push(nums[num]);
+  }
+  return output;
+};
