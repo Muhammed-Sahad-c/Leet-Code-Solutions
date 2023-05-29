@@ -1,0 +1,24 @@
+//Flipping an Image
+
+/**
+ * @param {number[][]} image
+ * @return {number[][]}
+ */
+var flipAndInvertImage = function (image) {
+  output = [];
+  final = [];
+  for (let element of image) {
+    output.push(element.reverse());
+  }
+
+  for (let element of output) {
+    for (i = 0; i < element.length; i++) {
+      if (element.lastIndexOf(element[i] === i)) {
+        if (element[i] === 0) element[i] = 1;
+        else element[i] = 0;
+      }
+    }
+  }
+
+  return output;
+};
