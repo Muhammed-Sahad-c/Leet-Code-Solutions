@@ -1,0 +1,14 @@
+//  Shuffle String
+
+/**
+ * @param {string} s
+ * @param {number[]} indices
+ * @return {string}
+ */
+var restoreString = function (s, indices) {
+  var output = [];
+  for (let i = 0; i < indices.length; i++) {
+    output[indices[i]] = s[i];
+  }
+  return output.join("");
+};
