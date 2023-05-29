@@ -1,0 +1,19 @@
+// Decompress Run-Length Encoded List
+
+/**
+ * @param {number[]} nums
+ * @return {number[]}
+ */
+var decompressRLElist = function (nums) {
+  var output = [];
+
+  for (let i = 0; i < nums.length; i++) {
+    for (j = 0; j < nums[i]; j++) {
+      output.push(nums[i + 1]);
+    }
+
+    i++;
+  }
+
+  return output;
+};
