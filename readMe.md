@@ -4,7 +4,7 @@ I'am Started to solving Leet code solutions in JavaScript. I don't know how much
 
 Let me know what you think and how you can help
 
-                                                          Total                 Solved 71 Problems
+                                                          Total                 Solved 75 Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -29,6 +29,7 @@ Let me know what you think and how you can help
 | 665         | Non-decreasing Array                                     | Array    | Medium     |
 | 682         | Baseball Game                                            | Array    | easy       |
 | 747         | Largest Number At Least Twice of Others                  | Array    | easy       |
+| 832         | Flipping an Image                                        | Array    | easy       |
 | 906         | Sort Array By Parity                                     | Array    | Easy       |
 | 961         | N-Repeated Element in Size 2N Array                      | Array    | Easy       |
 | 1051        | Height Checker                                           | Array    | Easy       |
@@ -36,6 +37,7 @@ Let me know what you think and how you can help
 | 1207        | Unique Number of Occurrences                             | Array    | Easy       |
 | 1287        | Element Appearing More Than 25% In Sorted Array          | Array    | Easy       |
 | 1295        | Find Numbers with Even Number of Digits                  | Array    | Easy       |
+| 1313        | Decompress Run-Length Encoded List                       | Array    | Easy       |
 | 1346        | Check If N and Its Double Exist                          | Array    | Easy       |
 | 1351        | Count Negative Numbers in a Sorted Matrix                | Array    | Easy       |
 | 1356        | How Many Numbers Are Smaller Than the Current Number     | Array    | Easy       |
@@ -47,6 +49,7 @@ Let me know what you think and how you can help
 | 1480        | Running Sum of 1d Array.                                 | Array    | Easy       |
 | 1491        | Average Salary Excluding the Minimum and Maximum Salary  | Array    | Easy       |
 | 1512        | Number of Good Pairs                                     | Array    | Easy       |
+| 1528        | Shuffle String                                           | Array    | Easy       |
 | 1539        | Kth Missing Positive Number                              | Array    | Easy       |
 | 1662        | Check If Two String Arrays are Equivalent                | Array    | Easy       |
 | 1672        | Richest Customer Wealth                                  | Array    | Easy       |
@@ -80,8 +83,8 @@ Let me know what you think and how you can help
 | 2665        | Counter II                                               | Array    | Easy       |
 | 2667        | Create Hello World Function                              | ..       | Easy       |
 
-                                                          Easy                  69
+                                                          Easy                  72
                                                           Medium                02
                                                           Hard                  00
 
-                                                          TOTAL                 71
+                                                          TOTAL                 75
