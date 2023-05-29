@@ -1,0 +1,17 @@
+//How Many Numbers Are Smaller Than the Current Number
+
+/**
+ * @param {number[]} nums
+ * @return {number[]}
+ */
+var smallerNumbersThanCurrent = function (nums) {
+  var output = [];
+  for (let num of nums) {
+    var count = 0;
+    for (let checkNum of nums) {
+      if (num > checkNum) count++;
+    }
+    output.push(count);
+  }
+  return output;
+};
