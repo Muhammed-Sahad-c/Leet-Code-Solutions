@@ -4,7 +4,7 @@ I'am Started to solving Leet code solutions in JavaScript. I don't know how much
 
 Let me know what you think and how you can help
 
-                                                          Total                 Solved 68 Problems
+                                                          Total                 Solved 71 Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -38,6 +38,7 @@ Let me know what you think and how you can help
 | 1295        | Find Numbers with Even Number of Digits                  | Array    | Easy       |
 | 1346        | Check If N and Its Double Exist                          | Array    | Easy       |
 | 1351        | Count Negative Numbers in a Sorted Matrix                | Array    | Easy       |
+| 1356        | How Many Numbers Are Smaller Than the Current Number     | Array    | Easy       |
 | 1394        | Find Lucky Integer in an Array                           | Array    | Easy       |
 | 1431        | Kids With the Greatest Number of Candies                 | Array    | Easy       |
 | 1450        | Number of Students Doing Homework at a Given Time        | Array    | Easy       |
@@ -45,6 +46,7 @@ Let me know what you think and how you can help
 | 1470        | Shuffle the Array                                        | Array    | Easy       |
 | 1480        | Running Sum of 1d Array.                                 | Array    | Easy       |
 | 1491        | Average Salary Excluding the Minimum and Maximum Salary  | Array    | Easy       |
+| 1512        | Number of Good Pairs                                     | Array    | Easy       |
 | 1539        | Kth Missing Positive Number                              | Array    | Easy       |
 | 1662        | Check If Two String Arrays are Equivalent                | Array    | Easy       |
 | 1672        | Richest Customer Wealth                                  | Array    | Easy       |
@@ -67,6 +69,7 @@ Let me know what you think and how you can help
 | 2535        | Difference Between Element Sum and Digit Sum of an Array | Array    | Easy       |
 | 2540        | Minimum Common Value                                     | Array    | Easy       |
 | 2553        | Create Hello World Function                              | Array    | Easy       |
+| 2574        | Left and Right Sum Differences                           | Array    | Easy       |
 | 2619        | Array.Prototype.Last                                     | Array    | Easy       |
 | 2620        | Counter                                                  | Array    | Easy       |
 | 2621        | Sleep                                                    | Array    | Easy       |
@@ -77,8 +80,8 @@ Let me know what you think and how you can help
 | 2665        | Counter II                                               | Array    | Easy       |
 | 2667        | Create Hello World Function                              | ..       | Easy       |
 
-                                                          Easy                  66
+                                                          Easy                  69
                                                           Medium                02
                                                           Hard                  00
 
-                                                          TOTAL                 68
+                                                          TOTAL                 71
