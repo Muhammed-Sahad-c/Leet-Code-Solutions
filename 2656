@@ -1,0 +1,15 @@
+// Maximum Sum With Exactly K Elements
+
+/**
+ * @param {number[]} nums
+ * @param {number} k
+ * @return {number}
+ */
+var maximizeSum = function (nums, k) {
+  var nums = nums.sort((a, b) => a - b);
+  var sum = nums[nums.length - 1];
+  for (i = 1; i < k; i++) {
+    sum += nums[nums.length - 1] + i;
+  }
+  return sum;
+};
