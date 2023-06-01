@@ -1,0 +1,16 @@
+// Divide Array Into Equal Pairs
+
+/**
+ * @param {number[]} nums
+ * @return {boolean}
+ */
+var divideArray = function (nums) {
+    for (let i = 0; i < nums.length; i++) {
+        var count = 0
+        for (j = 0; j < nums.length; j++) {
+            if (nums[i] == nums[j]) count++;
+        }
+        if (count % 2 !== 0) return false
+    }
+    return true
+};
