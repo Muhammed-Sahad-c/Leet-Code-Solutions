@@ -54,10 +54,12 @@ Let me know what you think and how you can help
 | 1662        | Check If Two String Arrays are Equivalent                | Array    | Easy       |
 | 1672        | Richest Customer Wealth                                  | Array    | Easy       |
 | 1716        | Calculate Money in Leetcode Bank                         | Array    | Easy       |
+| 1720        | Decode XORed Array                                       | Array    | Easy       |
 | 1748        | Sum of Unique Elements                                   | Array    | Easy       |
 | 1773        | Count Items Matching a Rule                              | Array    | Easy       |
 | 1816        | Truncate Sentence                                        | Array    | Easy       |
 | 1822        | Sign of the Product of an Array                          | Array    | Easy       |
+| 1913        | Maximum Product Difference Between Two Pairs             | Array    | Easy       |
 | 1920        | Build Array from Permutation                             | Array    | Easy       |
 | 1929        | Find Target Indices After Sorting Array                  | Array    | Easy       |
 | 2011        | Final Value of Variable After Performing Operations      | Array    | Easy       |
@@ -65,6 +67,7 @@ Let me know what you think and how you can help
 | 2108        | Find First Palindromic String in the Array               | Array    | Easy       |
 | 2114        | Maximum Number of Words Found in Sentences               | Array    | Easy       |
 | 2185        | Counting Words With a Given Prefix                       | Array    | Easy       |
+| 2206        | Divide Array Into Equal Pairs                            | Array    | Easy       |
 | 2215        | Find the Difference of Two Arrays                        | Array    | Easy       |
 | 2418        | Sort the People                                          | Array    | Easy       |
 | 2520        | Count the Digits That Divide a Number                    | Array    | Easy       |
