@@ -4,7 +4,7 @@ I'am Started to solving Leet code solutions in JavaScript. I don't know how much
 
 Let me know what you think and how you can help
 
-                                                          Total                 Solved 80 Problems
+                                                          Total                 Solved 81 Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -14,6 +14,7 @@ Let me know what you think and how you can help
 | 53          | Maximum Sub Array                                        | Array    | Medium     |
 | 58          | Length Of The Last Word                                  | String   | Easy       |
 | 66          | Plus One                                                 | Array    | Easy       |
+| 88          | Merge Sorted Array                                       | Array    | Easy       |
 | 125         | Valid Palindrome                                         | String   | Easy       |
 | 136         | Single Number II                                         | Array    | Easy       |
 | 169         | Majority Element                                         | Array    | Easy       |
@@ -88,8 +89,8 @@ Let me know what you think and how you can help
 | 2665        | Counter II                                               | Array    | Easy       |
 | 2667        | Create Hello World Function                              | ..       | Easy       |
 
-                                                          Easy                  78
+                                                          Easy                  79
                                                           Medium                02
                                                           Hard                  00
 
-                                                          TOTAL                 80
+                                                          TOTAL                 81

@@ -1,0 +1,17 @@
+// Merge Sorted Array
+
+/**
+ * @param {number[]} nums1
+ * @param {number} m
+ * @param {number[]} nums2
+ * @param {number} n
+ * @return {void} Do not return anything, modify nums1 in-place instead.
+ */
+var merge = function (nums1, m, nums2, n) {
+    for (i = 0; i < nums2.length; i++) {
+        var index = nums1.indexOf(0);
+        if (index >= 0) nums1[index] = nums2[i];
+        else nums1.push(nums2[i])
+    }
+    nums1.sort((a, b) => a - b)
+};
