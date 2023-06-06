@@ -4,7 +4,7 @@ I'am Started to solving Leet code solutions in JavaScript. I don't know how much
 
 Let me know what you think and how you can help
 
-                                                          Total                 Solved 81 Problems
+                                                          Total                 Solved 82 Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -40,6 +40,7 @@ Let me know what you think and how you can help
 | 1207        | Unique Number of Occurrences                             | Array    | Easy       |
 | 1287        | Element Appearing More Than 25% In Sorted Array          | Array    | Easy       |
 | 1295        | Find Numbers with Even Number of Digits                  | Array    | Easy       |
+| 1304        | Find N Unique Integers Sum up to Zero                    | Array    | Easy       |
 | 1313        | Decompress Run-Length Encoded List                       | Array    | Easy       |
 | 1346        | Check If N and Its Double Exist                          | Array    | Easy       |
 | 1351        | Count Negative Numbers in a Sorted Matrix                | Array    | Easy       |
@@ -90,8 +91,8 @@ Let me know what you think and how you can help
 | 2665        | Counter II                                               | Array    | Easy       |
 | 2667        | Create Hello World Function                              | ..       | Easy       |
 
-                                                          Easy                  79
+                                                          Easy                  80
                                                           Medium                02
                                                           Hard                  00
 
-                                                          TOTAL                 81
+                                                          TOTAL                 82
