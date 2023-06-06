@@ -1,0 +1,13 @@
+// Find N Unique Integers Sum up to Zero
+
+/**
+ * @param {number} n
+ * @return {number[]}
+ */
+var sumZero = function(n) {
+    var output = []
+     for(i=0;i<n;i++){
+         output.push(i*2 - n+1)
+     }
+     return output
+};
