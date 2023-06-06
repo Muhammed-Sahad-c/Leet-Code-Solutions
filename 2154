@@ -1,0 +1,15 @@
+// Keep Multiplying Found Values by Two
+
+/**
+ * @param {number[]} nums
+ * @param {number} original
+ * @return {number}
+ */
+var findFinalValue = function (nums, original) {
+    var queue = [original];
+    while(queue.length){
+        var curr = queue.shift()
+        if(!nums.includes(curr)) return curr;
+        else queue.push(curr*2)
+    }
+};
