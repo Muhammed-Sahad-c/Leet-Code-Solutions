@@ -35,6 +35,7 @@ Let me know what you think and how you can help
 | 832         | Flipping an Image                                        | Array    | easy       |
 | 906         | Sort Array By Parity                                     | Array    | Easy       |
 | 961         | N-Repeated Element in Size 2N Array                      | Array    | Easy       |
+| 977         | Squares of a Sorted Array                                | Array    | Easy       |
 | 1051        | Height Checker                                           | Array    | Easy       |
 | 1089        | Duplicate Zeros                                          | Array    | Easy       |
 | 1207        | Unique Number of Occurrences                             | Array    | Easy       |
@@ -73,6 +74,7 @@ Let me know what you think and how you can help
 | 2185        | Counting Words With a Given Prefix                       | Array    | Easy       |
 | 2206        | Divide Array Into Equal Pairs                            | Array    | Easy       |
 | 2215        | Find the Difference of Two Arrays                        | Array    | Easy       |
+| 2341        | Maximum Number of Pairs in Array                         | Array    | Easy       |
 | 2418        | Sort the People                                          | Array    | Easy       |
 | 2520        | Count the Digits That Divide a Number                    | Array    | Easy       |
 | 2529        | Maximum Count of Positive Integer and Negative Integer   | Array    | Easy       |
@@ -97,8 +99,5 @@ Let me know what you think and how you can help
 
                                                           TOTAL                 84
 
-
-
- 
 2652
 2154
