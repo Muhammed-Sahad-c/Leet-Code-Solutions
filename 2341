@@ -1,0 +1,21 @@
+
+// Maximum Number of Pairs in Array
+
+/**
+ * @param {number[]} nums
+ * @return {number[]}
+ */
+var numberOfPairs = function (nums) {
+    var pairs = 0//paircount , leftover
+    for (let i = 0; i < nums.length; i++) {
+        var index = nums.lastIndexOf(nums[i]);
+        if (index !== -1 && index != i) {
+            nums.splice(index, 1);
+            nums.splice(i, 1);
+            pairs++;
+            i -= 2
+        }
+    }
+    return [pairs, nums.length]
+
+};
