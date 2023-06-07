@@ -11,5 +11,5 @@ var findFinalValue = function (nums, original) {
         var curr = queue.shift()
         if(!nums.includes(curr)) return curr;
         else queue.push(curr*2)
-    }
-};
+    } 
+}; 
