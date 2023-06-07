@@ -4,11 +4,12 @@ I'am Started to solving Leet code solutions in JavaScript. I don't know how much
 
 Let me know what you think and how you can help
 
-                                                          Total                 Solved 84 Problems
+                                                          Total                 Solved 87 Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
 | 1           | Two Sum                                                  | Array    | Easy       |
+| 9           | Palindrome Number                                        | Array    | Easy       |
 | 26          | Remove Duplicates from Sorted Array                      | Array    | Easy       |
 | 27          | Remove Element                                           | Array    | Easy       |
 | 28          | Find the Index of the First Occurrence in a String       | String   | Easy       |
@@ -71,6 +72,7 @@ Let me know what you think and how you can help
 | 2089        | Concatenation of Array                                   | Array    | Easy       |
 | 2108        | Find First Palindromic String in the Array               | Array    | Easy       |
 | 2114        | Maximum Number of Words Found in Sentences               | Array    | Easy       |
+| 2154        | Keep Multiplying Found Values by Two                     | Array    | Easy       |
 | 2185        | Counting Words With a Given Prefix                       | Array    | Easy       |
 | 2206        | Divide Array Into Equal Pairs                            | Array    | Easy       |
 | 2215        | Find the Difference of Two Arrays                        | Array    | Easy       |
@@ -89,15 +91,13 @@ Let me know what you think and how you can help
 | 2634        | Filter Elements from Array                               | Array    | Easy       |
 | 2635        | Apply Transform Over Each Element in Array               | Array    | Easy       |
 | 2643        | Row With Maximum Ones                                    | Array    | Easy       |
+| 2652        | Sum Multiples                                            | Array    | Easy       |
 | 2656        | Maximum Sum With Exactly K Elements                      | Array    | Easy       |
 | 2665        | Counter II                                               | Array    | Easy       |
 | 2667        | Create Hello World Function                              | ..       | Easy       |
 
-                                                          Easy                  82
+                                                          Easy                  85
                                                           Medium                02
                                                           Hard                  00
 
-                                                          TOTAL                 84
-
-2652
-2154
+                                                          TOTAL                 87
