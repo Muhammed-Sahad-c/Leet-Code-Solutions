@@ -1,0 +1,13 @@
+// Add to Array-Form of Integer
+
+/**
+ * @param {number[]} num
+ * @param {number} k
+ * @return {number[]}
+ */
+var addToArrayForm = function (num, k) {
+    var arr = []
+    var sum = BigInt(num.join('')) + BigInt(k)
+    for (let x of sum.toString()) arr.push(+x)
+    return arr
+};
