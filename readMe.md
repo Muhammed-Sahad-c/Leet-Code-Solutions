@@ -21,7 +21,7 @@ Let me know what you think and how you can help
 | 136         | Single Number II                                         | Array    | Easy       |
 | 169         | Majority Element                                         | Array    | Easy       |
 | 217         | Contains Duplicate                                       | Array    | Easy       |
-| 242         | Valid Anagram                                            | Array    | Easy       |
+| 242         | Valid Anagram                                            | String   | Easy       |
 | 258         | Add Digits                                               | Array    | Easy       |
 | 268         | Missing Number                                           | Array    | Easy       |
 | 288         | Move Zeros                                               | Array    | Easy       |
@@ -58,30 +58,30 @@ Let me know what you think and how you can help
 | 1480        | Running Sum of 1d Array.                                 | Array    | Easy       |
 | 1491        | Average Salary Excluding the Minimum and Maximum Salary  | Array    | Easy       |
 | 1512        | Number of Good Pairs                                     | Array    | Easy       |
-| 1528        | Shuffle String                                           | Array    | Easy       |
+| 1528        | Shuffle String                                           | String   | Easy       |
 | 1539        | Kth Missing Positive Number                              | Array    | Easy       |
 | 1550        | Three Consecutive Odds                                   | Array    | Easy       |
-| 1662        | Check If Two String Arrays are Equivalent                | Array    | Easy       |
+| 1662        | Check If Two String Arrays are Equivalent                | String   | Easy       |
 | 1672        | Richest Customer Wealth                                  | Array    | Easy       |
 | 1716        | Calculate Money in Leetcode Bank                         | Array    | Easy       |
 | 1720        | Decode XORed Array                                       | Array    | Easy       |
 | 1748        | Sum of Unique Elements                                   | Array    | Easy       |
-| 1773        | Count Items Matching a Rule                              | Array    | Easy       |
-| 1816        | Truncate Sentence                                        | Array    | Easy       |
+| 1773        | Count Items Matching a Rule                              | String   | Easy       |
+| 1816        | Truncate Sentence                                        | String   | Easy       |
 | 1822        | Sign of the Product of an Array                          | Array    | Easy       |
 | 1913        | Maximum Product Difference Between Two Pairs             | Array    | Easy       |
 | 1920        | Build Array from Permutation                             | Array    | Easy       |
 | 1929        | Find Target Indices After Sorting Array                  | Array    | Easy       |
-| 2011        | Final Value of Variable After Performing Operations      | Array    | Easy       |
+| 2011        | Final Value of Variable After Performing Operations      | String   | Easy       |
 | 2089        | Concatenation of Array                                   | Array    | Easy       |
-| 2108        | Find First Palindromic String in the Array               | Array    | Easy       |
-| 2114        | Maximum Number of Words Found in Sentences               | Array    | Easy       |
+| 2108        | Find First Palindromic String in the Array               | String   | Easy       |
+| 2114        | Maximum Number of Words Found in Sentences               | String   | Easy       |
 | 2154        | Keep Multiplying Found Values by Two                     | Array    | Easy       |
-| 2185        | Counting Words With a Given Prefix                       | Array    | Easy       |
+| 2185        | Counting Words With a Given Prefix                       | String   | Easy       |
 | 2206        | Divide Array Into Equal Pairs                            | Array    | Easy       |
 | 2215        | Find the Difference of Two Arrays                        | Array    | Easy       |
 | 2341        | Maximum Number of Pairs in Array                         | Array    | Easy       |
-| 2418        | Sort the People                                          | Array    | Easy       |
+| 2418        | Sort the People                                          | String   | Easy       |
 | 2520        | Count the Digits That Divide a Number                    | Array    | Easy       |
 | 2529        | Maximum Count of Positive Integer and Negative Integer   | Array    | Easy       |
 | 2535        | Difference Between Element Sum and Digit Sum of an Array | Array    | Easy       |
