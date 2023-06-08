@@ -39,6 +39,7 @@ Let me know what you think and how you can help
 | 961         | N-Repeated Element in Size 2N Array                      | Array    | Easy       |
 | 977         | Squares of a Sorted Array                                | Array    | Easy       |
 | 989         | Add to Array-Form of Integer                             | Array    | Easy       |
+| 1046        | Last Stone Weight                                        | Array    | Easy       |
 | 1051        | Height Checker                                           | Array    | Easy       |
 | 1089        | Duplicate Zeros                                          | Array    | Easy       |
 | 1207        | Unique Number of Occurrences                             | Array    | Easy       |
