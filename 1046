@@ -1,0 +1,12 @@
+// Last Stone Weight
+
+/**
+ * @param {number[]} stones
+ * @return {number}
+ */
+var lastStoneWeight = function (stones) {
+    if (stones.length === 1) return stones
+    stones.sort((a,b)=>a-b);
+    stones.push(stones.pop() - stones.pop());
+    return lastStoneWeight(stones)
+};
