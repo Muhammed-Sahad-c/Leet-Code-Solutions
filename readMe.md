@@ -32,6 +32,7 @@ Let me know what you think and how you can help
 | 557         | Reverse Words in a String III                            | String   | Easy       |
 | 665         | Non-decreasing Array                                     | Array    | Medium     |
 | 682         | Baseball Game                                            | Array    | easy       |
+| 744         | Baseball Game Find Smallest Letter Greater Than Target   | Array    | easy       |
 | 747         | Largest Number At Least Twice of Others                  | Array    | easy       |
 | 832         | Flipping an Image                                        | Array    | easy       |
 | 906         | Sort Array By Parity                                     | Array    | Easy       |
