@@ -57,6 +57,7 @@ Let me know what you think and how you can help
 | 1512        | Number of Good Pairs                                     | Array    | Easy       |
 | 1528        | Shuffle String                                           | Array    | Easy       |
 | 1539        | Kth Missing Positive Number                              | Array    | Easy       |
+| 1550        | Three Consecutive Odds                                   | Array    | Easy       |
 | 1662        | Check If Two String Arrays are Equivalent                | Array    | Easy       |
 | 1672        | Richest Customer Wealth                                  | Array    | Easy       |
 | 1716        | Calculate Money in Leetcode Bank                         | Array    | Easy       |
