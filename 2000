@@ -1,0 +1,13 @@
+// Reverse Prefix of Word
+
+/**
+ * @param {string} word
+ * @param {character} ch
+ * @return {string}
+ */
+var reversePrefix = function (word, ch) {
+  var arr = word.split("");
+  var left = arr.slice(0, arr.indexOf(ch) + 1);
+  var right = arr.splice(arr.indexOf(ch) + 1);
+  return [...left.reverse(), ...right].join("");
+};
