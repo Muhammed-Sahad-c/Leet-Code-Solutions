@@ -1,0 +1,16 @@
+// Percentage of Letter in String
+
+/**
+ * @param {string} s
+ * @param {character} letter
+ * @return {number}
+ */
+var percentageLetter = function (s, letter) {
+    var arr = s.split('')
+    if (!arr.includes(letter)) return 0;
+    else {
+        var count = 0;
+        for (let char of arr) if (char == letter) count++;
+        return Math.floor((100 * count) / arr.length)
+    }
+};
