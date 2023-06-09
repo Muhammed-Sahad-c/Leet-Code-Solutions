@@ -1,0 +1,15 @@
+//Replace All Digits with Characters
+
+/**
+ * @param {string} s
+ * @return {string}
+ */
+var replaceDigits = function (s) {
+  var arr = s.split("");
+  for (let i = 0; i < arr.length; i++) {
+    if (arr[i] <= 0 || arr[i] >= 0) {
+      arr[i] = String.fromCharCode(s.charCodeAt(i - 1) + +arr[i]);
+    }
+  }
+  return arr.join("");
+};
