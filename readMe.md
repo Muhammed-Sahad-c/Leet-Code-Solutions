@@ -32,8 +32,10 @@ Let me know what you think and how you can help
 | 557         | Reverse Words in a String III                            | String   | Easy       |
 | 665         | Non-decreasing Array                                     | Array    | Medium     |
 | 682         | Baseball Game                                            | Array    | easy       |
+| 709         | To Lower Case                                            | String   | easy       |
 | 744         | Baseball Game Find Smallest Letter Greater Than Target   | Array    | easy       |
 | 747         | Largest Number At Least Twice of Others                  | Array    | easy       |
+| 771         | Jewels and Stones                                        | String   | easy       |
 | 832         | Flipping an Image                                        | Array    | easy       |
 | 906         | Sort Array By Parity                                     | Array    | Easy       |
 | 961         | N-Repeated Element in Size 2N Array                      | Array    | Easy       |
@@ -69,6 +71,7 @@ Let me know what you think and how you can help
 | 1773        | Count Items Matching a Rule                              | String   | Easy       |
 | 1816        | Truncate Sentence                                        | String   | Easy       |
 | 1822        | Sign of the Product of an Array                          | Array    | Easy       |
+| 1859        | Sorting the Sentence                                     | String   | Easy       |
 | 1913        | Maximum Product Difference Between Two Pairs             | Array    | Easy       |
 | 1920        | Build Array from Permutation                             | Array    | Easy       |
 | 1929        | Find Target Indices After Sorting Array                  | Array    | Easy       |
