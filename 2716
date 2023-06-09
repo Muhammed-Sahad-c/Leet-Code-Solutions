@@ -1,0 +1,10 @@
+// Minimize String Length;
+
+/**
+ * @param {string} s
+ * @return {number}
+ */
+var minimizedStringLength = function (s) {
+  var set = new Set(s.split(""));
+  return set.size;
+};
