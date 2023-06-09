@@ -1,0 +1,16 @@
+// Sorting the Sentence
+
+/**
+ * @param {string} s
+ * @return {string}
+ */
+var sortSentence = function (s) {
+    var arr = s.split(' ');
+    var output = new Array(arr.length);
+    for (let word of arr) {
+        wordArr = word.split('');
+        output[wordArr.pop()] = wordArr.join('')
+    }
+    output.shift();
+    return output.join(' ')
+};
