@@ -2,7 +2,7 @@ Greetings!
 
 I'am Started to solving Leet code solutions in JavaScript. I don't know how much i can cover eventhough i'll try for my best.
 
-Let me know what you think and how you can help
+Let me know what you think and how you can help.
 
                                                           Total                 Solved 100 Problems
 
@@ -28,6 +28,7 @@ Let me know what you think and how you can help
 | 344         | Reverse String                                           | String   | Easy       |
 | 349         | Intersection of Two Arrays                               | Array    | Easy       |
 | 414         | Third Maximum Number                                     | Array    | Easy       |
+| 434         | Number of Segments in a String                           | String   | Easy       |
 | 485         | Max Consecutive Ones                                     | Array    | Easy       |
 | 557         | Reverse Words in a String III                            | String   | Easy       |
 | 665         | Non-decreasing Array                                     | Array    | Medium     |
@@ -65,16 +66,19 @@ Let me know what you think and how you can help
 | 1550        | Three Consecutive Odds                                   | Array    | Easy       |
 | 1662        | Check If Two String Arrays are Equivalent                | String   | Easy       |
 | 1672        | Richest Customer Wealth                                  | Array    | Easy       |
+| 1704        | Determine if String Halves Are Alike                     | String   | Easy       |
 | 1716        | Calculate Money in Leetcode Bank                         | Array    | Easy       |
 | 1720        | Decode XORed Array                                       | Array    | Easy       |
 | 1748        | Sum of Unique Elements                                   | Array    | Easy       |
 | 1773        | Count Items Matching a Rule                              | String   | Easy       |
 | 1816        | Truncate Sentence                                        | String   | Easy       |
 | 1822        | Sign of the Product of an Array                          | Array    | Easy       |
+| 1844        | Replace All Digits with Characters                       | String   | Easy       |
 | 1859        | Sorting the Sentence                                     | String   | Easy       |
 | 1913        | Maximum Product Difference Between Two Pairs             | Array    | Easy       |
 | 1920        | Build Array from Permutation                             | Array    | Easy       |
 | 1929        | Find Target Indices After Sorting Array                  | Array    | Easy       |
+| 2000        | Percentage of Letter in String                           | String   | Easy       |
 | 2011        | Final Value of Variable After Performing Operations      | String   | Easy       |
 | 2089        | Concatenation of Array                                   | Array    | Easy       |
 | 2108        | Find First Palindromic String in the Array               | String   | Easy       |
@@ -83,6 +87,7 @@ Let me know what you think and how you can help
 | 2185        | Counting Words With a Given Prefix                       | String   | Easy       |
 | 2206        | Divide Array Into Equal Pairs                            | Array    | Easy       |
 | 2215        | Find the Difference of Two Arrays                        | Array    | Easy       |
+| 2278        | Percentage of Letter in String                           | String   | Easy       |
 | 2341        | Maximum Number of Pairs in Array                         | Array    | Easy       |
 | 2418        | Sort the People                                          | String   | Easy       |
 | 2520        | Count the Digits That Divide a Number                    | Array    | Easy       |
@@ -102,6 +107,7 @@ Let me know what you think and how you can help
 | 2656        | Maximum Sum With Exactly K Elements                      | Array    | Easy       |
 | 2665        | Counter II                                               | Array    | Easy       |
 | 2667        | Create Hello World Function                              | ..       | Easy       |
+| 2716        | Minimize String Length                                   | String   | Easy       |
 
                                                           Easy                  98
                                                           Medium                02
