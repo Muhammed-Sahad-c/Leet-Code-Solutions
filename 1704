@@ -1,0 +1,15 @@
+// Determine if String Halves Are Alike
+
+/**
+ * @param {string} s
+ * @return {boolean}
+ */
+ const halvesAreAlike = (s) => {
+    const vowels = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'];
+    let count = 0;
+    for (let i = 0, j = s.length - 1; i < j; i++, j--) {
+        if (vowels.includes(s[i])) count++;
+        if (vowels.includes(s[j])) count--;
+    }
+    return count === 0;
+};
