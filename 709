@@ -1,0 +1,13 @@
+// To Lower Case
+
+/**
+ * @param {string} s
+ * @return {string}
+ */
+var toLowerCase = function (s) {
+    var arr = s.split('');
+    for (let i = 0; i < arr.length; i++) {
+        if (s.charCodeAt(i) >= 65 && s.charCodeAt(i) <= 90) arr[i] = arr[i].toLowerCase();
+    }
+    return arr.join('')
+};
