@@ -1,0 +1,11 @@
+//Number of Segments in a String
+
+/**
+ * @param {string} s
+ * @return {number}
+ */
+var countSegments = function (s) {
+    var count = 0;
+    for(let word of s.split(' ')) if(word.length !== 0) count++;
+    return count;
+};
