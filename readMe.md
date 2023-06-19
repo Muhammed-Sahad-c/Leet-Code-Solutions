@@ -4,7 +4,7 @@ I'am Started to solving Leet code solutions in JavaScript. I don't know how much
 
 Let me know what you think and how you can help.
 
-                                                          Total                 Solved 100 Problems
+                                                          Total                 Solved 101  Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -95,6 +95,7 @@ Let me know what you think and how you can help.
 | 2535        | Difference Between Element Sum and Digit Sum of an Array | Array    | Easy       |
 | 2540        | Minimum Common Value                                     | Array    | Easy       |
 | 2553        | Create Hello World Function                              | Array    | Easy       |
+| 2562        | Find the Array Concatenation Value                       | Array    | Easy       |
 | 2574        | Left and Right Sum Differences                           | Array    | Easy       |
 | 2619        | Array.Prototype.Last                                     | Array    | Easy       |
 | 2620        | Counter                                                  | Array    | Easy       |
@@ -109,8 +110,8 @@ Let me know what you think and how you can help.
 | 2667        | Create Hello World Function                              | ..       | Easy       |
 | 2716        | Minimize String Length                                   | String   | Easy       |
 
-                                                          Easy                  98
+                                                          Easy                  99
                                                           Medium                02
                                                           Hard                  00
 
-                                                          TOTAL                 100
+                                                          TOTAL                 101
