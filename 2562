@@ -1,0 +1,18 @@
+// Find the Array Concatenation Value
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var findTheArrayConcVal = function (nums) {
+
+    var mid = nums.length % 2 !== 0 ? nums.splice(Math.floor(nums.length / 2), 1) : [0]
+    var value = mid.pop();
+
+    while (nums.length) {
+        var curr = nums.shift() + "" + nums.pop();
+        value += +curr
+    }
+
+    return value;
+};
