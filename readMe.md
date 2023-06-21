@@ -4,7 +4,7 @@ I'am Started to solving Leet code solutions in JavaScript. I don't know how much
 
 Let me know what you think and how you can help.
 
-                                                          Total                 Solved 102  Problems
+                                                          Total                 Solved 103  Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -110,9 +110,10 @@ Let me know what you think and how you can help.
 | 2665        | Counter II                                               | Array    | Easy       |
 | 2667        | Create Hello World Function                              | ..       | Easy       |
 | 2716        | Minimize String Length                                   | String   | Easy       |
+| 2733        |  Neither Minimum nor Maximum                             | Array    | Easy       |
 
-                                                          Easy                  100
+                                                          Easy                  101
                                                           Medium                02
                                                           Hard                  00
 
-                                                          TOTAL                 102
+                                                          TOTAL                 103
