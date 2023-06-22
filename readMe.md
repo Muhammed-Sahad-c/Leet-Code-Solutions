@@ -4,7 +4,7 @@ I'am Started to solving Leet code solutions in JavaScript. I don't know how much
 
 Let me know what you think and how you can help.
 
-                                                          Total                 Solved 103  Problems
+                                                          Total                 Solved 104  Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -51,6 +51,7 @@ Let me know what you think and how you can help.
 | 1295        | Find Numbers with Even Number of Digits                  | Array    | Easy       |
 | 1304        | Find N Unique Integers Sum up to Zero                    | Array    | Easy       |
 | 1313        | Decompress Run-Length Encoded List                       | Array    | Easy       |
+| 1342        | Number of Steps to Reduce a Number to Zero               | Array    | Easy       |
 | 1346        | Check If N and Its Double Exist                          | Array    | Easy       |
 | 1351        | Count Negative Numbers in a Sorted Matrix                | Array    | Easy       |
 | 1356        | How Many Numbers Are Smaller Than the Current Number     | Array    | Easy       |
@@ -108,12 +109,12 @@ Let me know what you think and how you can help.
 | 2652        | Sum Multiples                                            | Array    | Easy       |
 | 2656        | Maximum Sum With Exactly K Elements                      | Array    | Easy       |
 | 2665        | Counter II                                               | Array    | Easy       |
-| 2667        | Create Hello World Function                              | ..       | Easy       |
+| 2667        | Create Hello World Function                              | * * * *  | Easy       |
 | 2716        | Minimize String Length                                   | String   | Easy       |
 | 2733        |  Neither Minimum nor Maximum                             | Array    | Easy       |
 
-                                                          Easy                  101
+                                                          Easy                  102
                                                           Medium                02
                                                           Hard                  00
 
-                                                          TOTAL                 103
+                                                          TOTAL                 104
