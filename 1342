@@ -1,0 +1,14 @@
+// Number of Steps to Reduce a Number to Zero
+/**
+ * @param {number} num
+ * @return {number}
+ */
+var numberOfSteps = function (num) {
+    var stepCount = 0;
+    while (num > 0) {
+        stepCount++;
+        if (num % 2 === 0) num = num / 2;
+        else num -= 1;
+    }
+    return stepCount;
+};
