@@ -4,7 +4,7 @@ I'am Started to solving Leet code solutions in JavaScript. I don't know how much
 
 Let me know what you think and how you can help.
 
-                                                          Total                 Solved 104  Problems
+                                                          Total                 Solved 105  Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -71,6 +71,7 @@ Let me know what you think and how you can help.
 | 1704        | Determine if String Halves Are Alike                     | String   | Easy       |
 | 1716        | Calculate Money in Leetcode Bank                         | Array    | Easy       |
 | 1720        | Decode XORed Array                                       | Array    | Easy       |
+| 1732        | Find the Highest Altitude                                | Array    | Easy       |
 | 1748        | Sum of Unique Elements                                   | Array    | Easy       |
 | 1773        | Count Items Matching a Rule                              | String   | Easy       |
 | 1816        | Truncate Sentence                                        | String   | Easy       |
@@ -113,8 +114,8 @@ Let me know what you think and how you can help.
 | 2716        | Minimize String Length                                   | String   | Easy       |
 | 2733        |  Neither Minimum nor Maximum                             | Array    | Easy       |
 
-                                                          Easy                  102
+                                                          Easy                  103
                                                           Medium                02
                                                           Hard                  00
 
-                                                          TOTAL                 104
+                                                          TOTAL                 105
