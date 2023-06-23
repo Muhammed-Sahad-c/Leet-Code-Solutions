@@ -1,0 +1,16 @@
+// Find the Highest Altitude
+
+/**
+ * @param {number[]} gain
+ * @return {number}
+ */
+var largestAltitude = function (gain) {
+    var output = [0];
+    var alt = 0
+    for (let x of gain) {
+        alt += x;
+        output.push(alt)
+    }
+
+    return Math.max(...output)
+};
