@@ -81,6 +81,7 @@ Let me know what you think and help me with better solution that you know!
 | 1920        | Build Array from Permutation                             | Array    | Easy       |
 | 1929        | Find Target Indices After Sorting Array                  | Array    | Easy       |
 | 2000        | Percentage of Letter in String                           | String   | Easy       |
+| 2006        | Count Number of Pairs With Absolute Difference K         | Array    | Easy       |
 | 2011        | Final Value of Variable After Performing Operations      | String   | Easy       |
 | 2089        | Concatenation of Array                                   | Array    | Easy       |
 | 2108        | Find First Palindromic String in the Array               | String   | Easy       |
