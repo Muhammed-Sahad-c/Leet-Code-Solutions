@@ -3,7 +3,7 @@ Greetings!
 I started to solve Leet code solutions in JavaScript. I don't know how much i'll be able to cover but i'll try my best.
 Let me know what you think and help me with better solution that you know!
 
-                                                          Total                 Solved 106  Problems
+                                                          Total                 Solved 107  Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -83,6 +83,7 @@ Let me know what you think and help me with better solution that you know!
 | 2000        | Percentage of Letter in String                           | String   | Easy       |
 | 2006        | Count Number of Pairs With Absolute Difference K         | Array    | Easy       |
 | 2011        | Final Value of Variable After Performing Operations      | String   | Easy       |
+| 2016        | Maximum Difference Between Increasing Elements           | Array    | Easy       |
 | 2089        | Concatenation of Array                                   | Array    | Easy       |
 | 2108        | Find First Palindromic String in the Array               | String   | Easy       |
 | 2114        | Maximum Number of Words Found in Sentences               | String   | Easy       |
@@ -114,8 +115,8 @@ Let me know what you think and help me with better solution that you know!
 | 2716        | Minimize String Length                                   | String   | Easy       |
 | 2733        |  Neither Minimum nor Maximum                             | Array    | Easy       |
 
-                                                          Easy                  104
+                                                          Easy                  105
                                                           Medium                02
                                                           Hard                  00
 
-                                                          TOTAL                 106
+                                                          TOTAL                 107
