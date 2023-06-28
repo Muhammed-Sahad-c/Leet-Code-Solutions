@@ -1,0 +1,15 @@
+// Maximum Difference Between Increasing Elements
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var maximumDifference = function (nums) {
+    const output = []
+    for (let i = 0; i < nums.length - 1; i++) {
+        for (j = 0; j < nums.length; j++) {
+            if (nums[i] < nums[j] && i < j) output.push(nums[j] - nums[i])
+        }
+    }
+    if (output.length) return Math.max(...output);
+    return -1
+};
