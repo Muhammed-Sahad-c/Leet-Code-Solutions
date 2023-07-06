@@ -3,7 +3,7 @@ Greetings!
 I started to solve Leet code solutions in JavaScript. I don't know how much i'll be able to cover but i'll try my best.
 Let me know what you think and help me with better solution that you know!
 
-                                                          Total                 Solved 107  Problems
+                                                          Total                 Solved 108  Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -73,6 +73,7 @@ Let me know what you think and help me with better solution that you know!
 | 1732        | Find the Highest Altitude                                | Array    | Easy       |
 | 1748        | Sum of Unique Elements                                   | Array    | Easy       |
 | 1773        | Count Items Matching a Rule                              | String   | Easy       |
+| 1796        | Second Largest Digit in a String                         | Array    | Easy       |
 | 1816        | Truncate Sentence                                        | String   | Easy       |
 | 1822        | Sign of the Product of an Array                          | Array    | Easy       |
 | 1844        | Replace All Digits with Characters                       | String   | Easy       |
@@ -115,8 +116,8 @@ Let me know what you think and help me with better solution that you know!
 | 2716        | Minimize String Length                                   | String   | Easy       |
 | 2733        |  Neither Minimum nor Maximum                             | Array    | Easy       |
 
-                                                          Easy                  105
+                                                          Easy                  106
                                                           Medium                02
                                                           Hard                  00
 
-                                                          TOTAL                 107
+                                                          TOTAL                 108
