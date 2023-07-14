@@ -3,7 +3,7 @@ Greetings!
 I started to solve Leet code solutions in JavaScript. I don't know how much i'll be able to cover but i'll try my best.
 Let me know what you think and help me with better solution that you know!
 
-                                                          Total                 Solved 109  Problems
+                                                          Total                 Solved 110  Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -117,8 +117,8 @@ Let me know what you think and help me with better solution that you know!
 | 2716        | Minimize String Length                                   | String   | Easy       |
 | 2733        |  Neither Minimum nor Maximum                             | Array    | Easy       |
 
-                                                          Easy                  107
+                                                          Easy                  108
                                                           Medium                02
                                                           Hard                  00
 
-                                                          TOTAL                 109
+                                                          TOTAL                 110
