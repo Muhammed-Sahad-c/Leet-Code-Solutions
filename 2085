@@ -1,0 +1,22 @@
+// Count Common Words With One Occurrence
+/**
+ * @param {string[]} words1
+ * @param {string[]} words2
+ * @return {number}
+ */
+var countWords = function (words1, words2) {
+    var output = 0
+    var checked = []
+    for (let i = 0; i < words1.length; i++) {
+        if (words1.lastIndexOf(words1[i]) === i && checked.includes(words1[i]) === false) {
+            if (words2.includes(words1[i])) {
+                var count = 0
+                for (let j of words2) {
+                    if (j === words1[i]) count++
+                }
+                if (count == 1) output++;
+            }
+        } else checked.push(words1[i])
+    }
+    return output
+};
