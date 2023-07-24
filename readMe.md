@@ -3,7 +3,7 @@ Greetings!
 I started to solve Leet code solutions in JavaScript. I don't know how much i'll be able to cover but i'll try my best.
 Let me know what you think and help me with better solution that you know!
 
-                                                          Total                 Solved 111  Problems
+                                                          Total                 Solved 112  Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -48,6 +48,7 @@ Let me know what you think and help me with better solution that you know!
 | 1207        | Unique Number of Occurrences                             | Array    | Easy       |
 | 1287        | Element Appearing More Than 25% In Sorted Array          | Array    | Easy       |
 | 1295        | Find Numbers with Even Number of Digits                  | Array    | Easy       |
+| 1299        | Replace Elements with Greatest Element on Right Side     | Array    | Easy       |
 | 1304        | Find N Unique Integers Sum up to Zero                    | Array    | Easy       |
 | 1313        | Decompress Run-Length Encoded List                       | Array    | Easy       |
 | 1342        | Number of Steps to Reduce a Number to Zero               | Array    | Easy       |
@@ -118,8 +119,8 @@ Let me know what you think and help me with better solution that you know!
 | 2716        | Minimize String Length                                   | String   | Easy       |
 | 2733        |  Neither Minimum nor Maximum                             | Array    | Easy       |
 
-                                                          Easy                  109
+                                                          Easy                  110
                                                           Medium                02
                                                           Hard                  00
 
-                                                          TOTAL                 111
+                                                          TOTAL                 112
