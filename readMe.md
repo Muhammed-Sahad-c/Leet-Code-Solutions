@@ -3,7 +3,7 @@ Greetings!
 I started to solve Leet code solutions in JavaScript. I don't know how much i'll be able to cover but i'll try my best.
 Let me know what you think and help me with better solution that you know!
 
-                                                          Total                 Solved 112  Problems
+                                                          Total                 Solved 113  Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -117,10 +117,11 @@ Let me know what you think and help me with better solution that you know!
 | 2665        | Counter II                                               | Array    | Easy       |
 | 2667        | Create Hello World Function                              | * * * *  | Easy       |
 | 2716        | Minimize String Length                                   | String   | Easy       |
-| 2733        |  Neither Minimum nor Maximum                             | Array    | Easy       |
+| 2733        | Neither Minimum nor Maximum                              | Array    | Easy       |
+| 2798        |   Number of Employees Who Met the Target                 | Array    | Easy       |
 
-                                                          Easy                  110
+                                                          Easy                  111
                                                           Medium                02
                                                           Hard                  00
 
-                                                          TOTAL                 112
+                                                          TOTAL                 113
