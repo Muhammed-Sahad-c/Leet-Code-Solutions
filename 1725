@@ -1,0 +1,21 @@
+// Number Of Rectangles That Can Form The Largest Square
+/**
+ * @param {number[][]} rectangles
+ * @return {number}
+ */
+var countGoodRectangles = function (rectangles) {
+    var output = [];
+    var count = 0;
+
+    for (let rectangle of rectangles) {
+        output.push(Math.min(...rectangle));
+    }
+
+    var target = Math.max(...output);
+    for (let x of output) {
+        if (x == target) {
+            count++
+        }
+    }
+    return count
+};
