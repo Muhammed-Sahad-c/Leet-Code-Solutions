@@ -1,0 +1,15 @@
+// Sqrt(x)
+
+/**
+ * @param {number} x
+ * @return {number}
+ */
+var mySqrt = function (x) {
+    let sqrt = x / 2;
+    let temp = 0
+    while (temp != sqrt) {
+        temp = sqrt;
+        sqrt = (x / temp + temp) / 2
+    }
+    return Math.floor(sqrt)
+};
