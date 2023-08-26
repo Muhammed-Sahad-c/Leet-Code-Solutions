@@ -1,0 +1,28 @@
+// Pascal's Triangle
+/**
+ * @param {number} numRows
+ * @return {number[][]}
+ */
+var generate = function (numRows) {
+    let row = 1;
+    let pascal_arr = [];
+
+    while (row <= numRows) {
+        var currRow = new Array(row);
+
+        currRow[0] = 1;
+        if (row.length !== 1) currRow[currRow.length - 1] = 1
+
+        if (currRow.length <= 2) pascal_arr.push([...currRow])
+        else {
+            var lastRow = pascal_arr[pascal_arr.length - 1]
+            for (let i = 0; i < lastRow.length - 1; i++) {
+                currRow[i + 1] = lastRow[i] + lastRow[i + 1]
+            }
+            pascal_arr.push([...currRow])
+        }
+        row++;
+    }
+
+    return pascal_arr
+};
