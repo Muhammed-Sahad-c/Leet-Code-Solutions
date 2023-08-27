@@ -3,7 +3,7 @@ Greetings!
 I started to solve Leet code solutions in JavaScript. I don't know how much i'll be able to cover but i'll try my best.
 Let me know what you think and help me with better solution that you know!
 
-                                                          Total                 Solved 118  Problems
+                                                          Total                 Solved 119  Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -99,6 +99,7 @@ Let me know what you think and help me with better solution that you know!
 | 2341        | Maximum Number of Pairs in Array                         | Array    | Easy       |
 | 2418        | Sort the People                                          | String   | Easy       |
 | 2460        | Apply Operations to an Array                             | Array    | Easy       |
+| 2496        | Maximum Value of a String in an Array                    | Array    | Easy       |
 | 2520        | Count the Digits That Divide a Number                    | Array    | Easy       |
 | 2529        | Maximum Count of Positive Integer and Negative Integer   | Array    | Easy       |
 | 2535        | Difference Between Element Sum and Digit Sum of an Array | Array    | Easy       |
@@ -122,8 +123,8 @@ Let me know what you think and help me with better solution that you know!
 | 2733        | Neither Minimum nor Maximum                              | Array    | Easy       |
 | 2798        | Number of Employees Who Met the Target                   | Array    | Easy       |
 
-                                                          Easy                  116
+                                                          Easy                  117
                                                           Medium                02
                                                           Hard                  00
 
-                                                          TOTAL                 118
+                                                          TOTAL                 119
