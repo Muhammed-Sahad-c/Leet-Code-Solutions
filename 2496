@@ -1,0 +1,20 @@
+// Maximum Value of a String in an array
+/**
+ * @param {string[]} strs
+ * @return {number}
+ */
+var maximumValue = function (strs) {
+    var highest = 0;
+    for (let word of strs) {
+        var currLength = 0;
+        if (!isNaN(word) && !isNaN(parseFloat(word))) {
+            currLength = Number(word)
+        } else {
+            currLength = word.length
+        }
+
+        if(highest < currLength) highest = currLength
+    }
+
+    return highest
+};
