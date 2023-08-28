@@ -1,0 +1,13 @@
+// Check if a String Is an Acronym of Words
+/**
+ * @param {string[]} words
+ * @param {string} s
+ * @return {boolean}
+ */
+var isAcronym = function (words, s) {
+    var letter_string = "";
+    for (let word of words) {
+        letter_string += word[0];
+    }
+    return letter_string === s
+};
