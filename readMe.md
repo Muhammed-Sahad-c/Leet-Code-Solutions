@@ -3,7 +3,7 @@ Greetings!
 I started to solve Leet code solutions in JavaScript. I don't know how much i'll be able to cover but i'll try my best.
 Let me know what you think and help me with better solution that you know!
 
-                                                          Total                 Solved 119  Problems
+                                                          Total                 Solved 120  Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -123,8 +123,8 @@ Let me know what you think and help me with better solution that you know!
 | 2733        | Neither Minimum nor Maximum                              | Array    | Easy       |
 | 2798        | Number of Employees Who Met the Target                   | Array    | Easy       |
 
-                                                          Easy                  117
+                                                          Easy                  118
                                                           Medium                02
                                                           Hard                  00
 
-                                                          TOTAL                 119
+                                                          TOTAL                 120
