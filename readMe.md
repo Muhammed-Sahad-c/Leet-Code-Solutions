@@ -3,7 +3,7 @@ Greetings!
 I started to solve Leet code solutions in JavaScript. I don't know how much i'll be able to cover but i'll try my best.
 Let me know what you think and help me with better solution that you know!
 
-                                                          Total                 Solved 121  Problems
+                                                          Total                 Solved 122  Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -118,13 +118,14 @@ Let me know what you think and help me with better solution that you know!
 | 2656        | Maximum Sum With Exactly K Elements                      | Array    | Easy       |
 | 2665        | Counter II                                               | Array    | Easy       |
 | 2667        | Create Hello World Function                              | * * * *  | Easy       |
+| 2677        | Chunk Array                                              | Array    | Easy       |
 | 2716        | Minimize String Length                                   | String   | Easy       |
 | 2727        | Is Object Empty                                          | String   | Easy       |
 | 2733        | Neither Minimum nor Maximum                              | Array    | Easy       |
 | 2798        | Number of Employees Who Met the Target                   | Array    | Easy       |
 
-                                                          Easy                  119
+                                                          Easy                  120
                                                           Medium                02
                                                           Hard                  00
 
-                                                          TOTAL                 121
+                                                          TOTAL                 122
