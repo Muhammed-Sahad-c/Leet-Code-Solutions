@@ -1,0 +1,20 @@
+// Chunk Array
+/**
+ * @param {Array} arr
+ * @param {number} size
+ * @return {Array[]}
+ */
+var chunk = function (arr, size) {
+    var output = [];
+    var count = Math.floor(arr.length/size);
+    if(count === 0){
+        return arr.length === 0 ? [] : [[...arr]]
+    }else{
+        for(let i = 0;i<count;i++){
+            output.push(arr.splice(0,size))
+        }
+
+        if(arr.length !== 0) output.push([...arr])
+    }
+    return output
+};
