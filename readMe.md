@@ -5,7 +5,7 @@ Let me know what you think and help me with better solution that you know!
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/00sahad?ext=heatmap)
 
-                                                          Total                 Solved 122  Problems
+                                                          Total                 Solved 123  Problems
 
 | Problem no: | Problem                                                  | Category | Difficulty |
 | ----------- | -------------------------------------------------------- | -------- | ---------- |
@@ -120,14 +120,15 @@ Let me know what you think and help me with better solution that you know!
 | 2656        | Maximum Sum With Exactly K Elements                      | Array    | Easy       |
 | 2665        | Counter II                                               | Array    | Easy       |
 | 2667        | Create Hello World Function                              | * * * *  | Easy       |
+| 2695        | Array Wrapper                                            | Array    | Easy       |
 | 2677        | Chunk Array                                              | Array    | Easy       |
 | 2716        | Minimize String Length                                   | String   | Easy       |
 | 2727        | Is Object Empty                                          | String   | Easy       |
 | 2733        | Neither Minimum nor Maximum                              | Array    | Easy       |
 | 2798        | Number of Employees Who Met the Target                   | Array    | Easy       |
 
-                                                          Easy                  120
+                                                          Easy                  121
                                                           Medium                02
                                                           Hard                  00
 
-                                                          TOTAL                 122
+                                                          TOTAL                 123
