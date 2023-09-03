@@ -19,14 +19,15 @@ Let me know what you think and help me with better solution that you know!
 | 66          | Plus One                                                 | Array    | Easy       |
 | 69          | sqrt(x)                                                  | Array    | Easy       |
 | 88          | Merge Sorted Array                                       | Array    | Easy       |
+| 118         | Pascal's Triangle                                        | Array    | Easy       |
 | 125         | Valid Palindrome                                         | String   | Easy       |
-| 136         | Single Number II                                         | Array    | Easy       |
+| 136         | Single Number                                            | Array    | Easy       |
 | 169         | Majority Element                                         | Array    | Easy       |
 | 217         | Contains Duplicate                                       | Array    | Easy       |
 | 242         | Valid Anagram                                            | String   | Easy       |
 | 258         | Add Digits                                               | Array    | Easy       |
 | 268         | Missing Number                                           | Array    | Easy       |
-| 288         | Move Zeros                                               | Array    | Easy       |
+| 283         | Move Zeros                                               | Array    | Easy       |
 | 344         | Reverse String                                           | String   | Easy       |
 | 349         | Intersection of Two Arrays                               | Array    | Easy       |
 | 414         | Third Maximum Number                                     | Array    | Easy       |
@@ -40,7 +41,7 @@ Let me know what you think and help me with better solution that you know!
 | 747         | Largest Number At Least Twice of Others                  | Array    | easy       |
 | 771         | Jewels and Stones                                        | String   | easy       |
 | 832         | Flipping an Image                                        | Array    | easy       |
-| 906         | Sort Array By Parity                                     | Array    | Easy       |
+| 905         | Sort Array By Parity                                     | Array    | Easy       |
 | 961         | N-Repeated Element in Size 2N Array                      | Array    | Easy       |
 | 977         | Squares of a Sorted Array                                | Array    | Easy       |
 | 989         | Add to Array-Form of Integer                             | Array    | Easy       |
