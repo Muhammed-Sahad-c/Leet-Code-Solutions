@@ -1,0 +1,21 @@
+// Next Greater Element I
+/** 
+ * @param {number[]} nums1
+ * @param {number[]} nums2
+ * @return {number[]}
+ */
+var nextGreaterElement = function (nums1, nums2) {
+    var output = [];
+    for (let x of nums1) {
+        var currIndex = nums2.indexOf(x) + 1;
+        var currGreater = -1;
+        for (let j = currIndex; j < nums2.length; j++) {
+            if (nums2[j] > x) {
+                currGreater =nums2[j]
+                break;
+            }
+        }
+        output.push(currGreater);
+    }
+    return output
+};
