@@ -6,8 +6,4 @@ Let me know what you think and help me with better solution that you know!
 ![Leetcode Stats](https://leetcard.jacoblin.cool/00sahad?ext=heatmap)
 
 
-                                                          Easy                  123
-                                                          Medium                02
-                                                          Hard                  00
-                                                          
-                                                          Total                 Solved 125  Problems
+                                          
