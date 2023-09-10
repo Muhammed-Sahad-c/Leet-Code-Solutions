@@ -1,0 +1,16 @@
+// Maximum 69 Number
+/**
+ * @param {number} num
+ * @return {number}
+ */
+var maximum69Number = function (num) {
+    let num = num + "";
+    let output = [];
+    for (let i = 0; i < num.length; i++) {
+        var temp = num.split("");
+        +temp[i] == 6 ? temp[i] = 9 : temp[i] = 6;
+        output.push(+temp.join(""))
+    }
+
+    return Math.max(...output,+num)
+};
