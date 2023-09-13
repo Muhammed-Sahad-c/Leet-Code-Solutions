@@ -1,0 +1,18 @@
+// Find Maximum Number of String Pairs
+/**
+ * @param {string[]} words
+ * @return {number}
+ */
+var maximumNumberOfStringPairs = function (words) {
+    let count = 0;
+    for (let i = 0; i < words.length; i++) {
+        let curr = words[i];
+        for (let j = 0; j < words.length; j++) {
+            let temp = words[j].split("").reverse().join("");
+            if (curr === temp && i !== j) {
+                count++;
+            }
+        }
+    }
+    return count / 2;
+};
