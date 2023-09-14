@@ -1,0 +1,26 @@
+// Most Frequent Even Element
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var mostFrequentEven = function (nums) {
+    let lgNum = null
+    let lgCount = null;
+    let setArr = Array.from(new Set([...nums]));
+
+    for (let i = 0; i < setArr.length; i++) {
+        let curr = setArr[i];
+        if (curr % 2 == 0) {
+            let counts = nums.filter(item => item === curr).length;
+            if (lgCount < counts) {
+                lgCount = counts;
+                lgNum = curr;
+            }
+            else if (lgCount === counts) {
+                lgNum = curr < lgNum ? curr : lgNum;
+            }
+        }
+    }
+    if(lgNum !== null) return lgNum
+    else return -1;
+};
