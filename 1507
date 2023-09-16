@@ -1,0 +1,16 @@
+// Reformat Date
+/**
+ * @param {string} date
+ * @return {string}
+ */
+var reformatDate = function (date) {
+    var output = ""
+    var months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+    var date = date.split(" ");
+    date[0] = date[0].length === 4 ? date[0].slice(0, 2) : date[0].slice(0, 1);
+    var m = months.indexOf(date[1]) + 1
+    output += date[2] + "-";
+    output += `${m < 10 ? "0" + m : m}-`;
+    output += Number(date[0]) < 10 ? `0${date[0]}` : date[0];
+    return output
+};
