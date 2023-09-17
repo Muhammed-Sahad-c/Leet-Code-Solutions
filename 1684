@@ -1,0 +1,22 @@
+// Count the Number of Consistent Strings
+/**
+ * @param {string} allowed
+ * @param {string[]} words
+ * @return {number}
+ */
+var countConsistentStrings = function (allowed, words) {
+    var count = 0;
+    for (let word of words) {
+        var flag = false;
+        for (let i = 0; i < word.length; i++) {
+            if (!allowed.includes(word[i])) {
+                flag = true;
+            }
+        }
+
+        if (!flag) {
+            count++;
+        }
+    }
+    return count
+};
