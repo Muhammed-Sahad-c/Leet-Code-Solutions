@@ -1,0 +1,18 @@
+// Find Greatest Common Divisor of Array
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var findGCD = function (nums) {
+    var lg = Math.max(...nums);
+    var sm = Math.min(...nums);
+    var div;
+    if (lg == sm) return sm;
+
+    for (let i = 1; i <= lg; i++) {
+        if (lg % i === 0 && sm % i === 0){
+            div = i;
+        }
+    }
+    return div
+};
