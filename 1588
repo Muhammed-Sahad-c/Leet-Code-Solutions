@@ -1,0 +1,20 @@
+// Sum of All Odd Length Subarrays
+/**
+ * @param {number[]} arr
+ * @return {number}
+ */
+var sumOddLengthSubarrays = function (arr) {
+    let count = [];
+    let oddCount = 1;
+
+    while (oddCount <= arr.length) {
+        for (let j = 0; j < arr.length; j++) {
+            if (j + oddCount <= arr.length) {
+                count.push(...arr.slice(j, j + oddCount))
+            }
+        }
+        oddCount += 2;
+    }
+    const sum = count.reduceRight((acc, val) => acc + val, 0);
+    return sum
+};
