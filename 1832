@@ -1,0 +1,9 @@
+/**
+ * @param {string} sentence
+ * @return {boolean}
+ */
+var checkIfPangram = function (sentence) {
+    const alphabet = "abcdefghijklmnopqrstuvwxyz"
+    sentence =  [...new Set(sentence)].sort().join("");
+    return sentence === alphabet
+};
