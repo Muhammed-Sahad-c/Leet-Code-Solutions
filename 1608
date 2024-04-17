@@ -1,0 +1,18 @@
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var specialArray = function (nums) {
+    let count = 0;
+    for (let i = 1; i <= 1000; i++) {
+        for (let num of nums) {
+            if (num >= i) count++;
+        }
+
+        if (count === i) return i;
+
+        count = 0;
+    }
+
+    return -1;
+};
