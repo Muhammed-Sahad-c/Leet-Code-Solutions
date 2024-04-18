@@ -1,0 +1,14 @@
+/**
+ * @param {string} s
+ * @return {string}
+ */
+var finalString = function(s) {
+    let output = [];
+
+    for(let letter of s){
+        if(letter === "i") output.reverse();
+        else output.push(letter);
+    }
+
+    return output.join("");
+};
