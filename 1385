@@ -1,0 +1,29 @@
+/**
+ * @param {number[]} arr1
+ * @param {number[]} arr2
+ * @param {number} d
+ * @return {number}
+ */
+var findTheDistanceValue = function (arr1, arr2, d) {
+    arr2.sort((a, b) => a - b);
+
+    let nonDistanceCount = 0;
+
+    let left = 0;
+    let right = arr2.length - 1;
+
+    for (let num in arr1) {
+        while (left <= right) {
+            const mid = Math.floor((left + right) / 2);
+            if (Math.abs(num - arr2[mid]) < d) {
+                nonDistanceCount++;
+                break;
+            }
+
+            if(arr2[mid] > d) right = mid-1;
+            else left = mid +1;
+        }
+    }
+
+    return arr1.length - nonDistanceCount
+};
