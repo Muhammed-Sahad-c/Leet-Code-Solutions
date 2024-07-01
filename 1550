@@ -10,3 +10,7 @@ var threeConsecutiveOdds = function (arr) {
     }
     return false
 };
+
+
+// solved 2023 
+// solved 2024 July 1 (strike)
