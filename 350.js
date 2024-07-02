@@ -47,3 +47,47 @@ var intersect = function (nums1, nums2) {
 
     return output;
 };
+
+
+// 👉🏻 IF THE ARRAY IS SORTED HOW WE CAN OPTIMIZE THE ALOGRITHM ?
+
+/**
+ * @param {number[]} nums1
+ * @param {number[]} nums2
+ * @return {number[]}
+ */
+var intersect = function (nums1, nums2) {
+
+    let output = [];
+
+    findIndex = (target) => {
+
+        let left = 0;
+        let right = nums1.length - 1;
+
+        while (left <= right) {
+            let mid = Math.floor((left + right) / 2);
+
+            if (nums1[mid] === target) return mid;
+
+            target < nums1[mid] ? (right = mid - 1) : (left = mid + 1);
+        }
+
+        return -1;
+    };
+
+
+    for (let num of nums2) {
+        let targetIndex = findIndex(num);
+
+        if (targetIndex >= 0) {
+            nums1[targetIndex] = -1;
+            output.push(num);
+        }
+    }
+
+
+    return output;
+
+};
+
